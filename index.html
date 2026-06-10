@@ -283,6 +283,45 @@
         </div>
     </section>
 
+    <!-- Chat flotante Q&A de RestoAI / La Cacerola -->
+    <div class="restoai-chat-widget" aria-live="polite">
+        <button class="restoai-chat-toggle" type="button" aria-label="Abrir chat de RestoAI" aria-expanded="false">
+            <i class="fas fa-message"></i>
+            <span>Lili</span>
+        </button>
+
+        <section class="restoai-chat-panel" aria-label="Chat de preguntas sobre RestoAI">
+            <div class="restoai-chat-header">
+                <div>
+                    <span class="restoai-chat-kicker">RESTOAI / LA CACEROLA</span>
+                    <h2>Lili responde</h2>
+                </div>
+                <button class="restoai-chat-close" type="button" aria-label="Cerrar chat">
+                    <i class="fas fa-xmark"></i>
+                </button>
+            </div>
+
+            <div class="restoai-chat-messages" id="restoai-chat-messages">
+                <div class="restoai-message restoai-message-bot">
+                    Hola, soy Lili. Puedo responder preguntas sobre RestoAI / La Cacerola, sus funciones y beneficios para restaurantes.
+                </div>
+            </div>
+
+            <form class="restoai-chat-form" id="restoai-chat-form">
+                <input
+                    id="restoai-chat-input"
+                    type="text"
+                    autocomplete="off"
+                    placeholder="Pregunta sobre RestoAI..."
+                    aria-label="Escribe tu pregunta sobre RestoAI"
+                >
+                <button type="submit" aria-label="Enviar pregunta">
+                    <i class="fas fa-paper-plane"></i>
+                </button>
+            </form>
+        </section>
+    </div>
+
     <script src="indscript.js"></script>
 </body>
 </html>

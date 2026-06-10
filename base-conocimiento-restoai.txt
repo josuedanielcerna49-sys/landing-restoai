@@ -1,0 +1,116 @@
+BASE DE CONOCIMIENTO COMERCIAL — RESTOAI / LA CACEROLA
+
+IDENTIDAD DEL PRODUCTO
+RestoAI / La Cacerola es un sistema digital para restaurantes asistido por Lili, una asistente virtual diseñada para mejorar la atención al cliente y ordenar la operación diaria del negocio.
+
+El sistema combina dos partes principales:
+1. Panel de Administración: usado por el personal del restaurante para gestionar ventas, pedidos, reservas, mesas, menú, precios, sucursales, facturación, clientes, reclamos, notificaciones, alertas, chat y analíticas.
+2. Chat del cliente: usado por los comensales para hablar con Lili, ver menú, hacer pedidos para recoger o a domicilio, consultar sucursales y horarios, consultar estado de pedidos, agendar reservas y reportar problemas.
+
+PROPUESTA DE VALOR
+RestoAI ayuda a restaurantes a atender más rápido, reducir procesos manuales, centralizar información, ordenar pedidos, mejorar reservas, controlar reclamos y tomar mejores decisiones con reportes.
+
+PROBLEMAS QUE RESUELVE
+- Consultas repetidas.
+- Pedidos desorganizados.
+- Atención lenta.
+- Información dispersa.
+- Errores en pedidos.
+- Falta de seguimiento a clientes.
+- Reclamos sin control.
+- Reservas difíciles de administrar.
+- Falta de visibilidad en ventas y comportamiento de clientes.
+- Dependencia excesiva de atención manual.
+
+FUNCIONALIDADES PRINCIPALES
+
+1. Panel de Administración
+Permite controlar la operación del restaurante. Incluye tablero principal, Punto de Venta, Pedidos, Reservas, Menú, Precios por Sucursal, Sucursales, Clientes, Reclamos, Monitor de Chat, Notificaciones, Alertas de Sentimiento y Analíticas.
+
+2. Chat con Lili
+Lili atiende a los clientes desde un chat. Puede mostrar menú, ayudar a hacer pedidos, registrar pedidos para recoger o domicilio, consultar sucursales y horarios, consultar estado de pedidos, recibir reclamos y agendar reservas.
+
+3. Punto de Venta
+Permite registrar ventas de mostrador o domicilio, seleccionar sucursal y caja, agregar productos, modificar cantidades, agregar notas, seleccionar método de pago, calcular cambio, cobrar e imprimir comprobante.
+
+4. Pedidos
+Muestra pedidos originados desde el chat y desde el Punto de Venta. Permite confirmar, preparar, marcar listo, despachar, entregar, marcar recogido, cancelar, cobrar pedidos pendientes y reimprimir comprobantes.
+
+5. Reservas y Mesas
+Permite gestionar reservas, asignar mesas, controlar estados de reserva y configurar duración por sucursal.
+
+6. Menú
+Permite administrar productos, categorías, precios, disponibilidad, imágenes, alérgenos y tiempos de preparación.
+
+7. Precios por Sucursal
+Permite que cada sucursal tenga precios o disponibilidad diferente para los productos.
+
+8. Sucursales
+Permite configurar datos de sucursal, teléfono, dirección, servicios, domicilio, zona de entrega, costo de envío, pedido mínimo y radio de cobertura.
+
+9. Facturación
+Permite configurar datos fiscales y autorizaciones CAI por caja. Si no hay CAI vigente, el sistema puede emitir ticket no fiscal.
+
+10. Clientes
+Permite consultar información de clientes, teléfonos, correos, nivel de lealtad, pedidos y puntos.
+
+11. Reclamos
+Permite registrar y dar seguimiento a quejas de clientes con estados como abierto, en progreso, resuelto y cerrado.
+
+12. Alertas de Sentimiento
+Ayuda a detectar clientes molestos o insatisfechos en el chat para que el personal pueda intervenir a tiempo.
+
+13. Monitor de Chat
+Permite supervisar conversaciones de Lili. Una persona puede tomar control, responder al cliente y luego devolver la conversación al bot.
+
+14. Notificaciones
+Reúne avisos importantes del sistema, como nuevos pedidos, reservas y reclamos.
+
+15. Analíticas
+Muestra reportes y estadísticas sobre ventas, pedidos, comportamiento de clientes y tendencias.
+
+ROLES
+- Staff: puede registrar ventas, avanzar pedidos, gestionar reservas, ver clientes, atender reclamos e intervenir en el chat.
+- Manager: puede hacer lo del Staff y además editar mesas, sucursales, facturación, menú y precios.
+- Admin: tiene acceso total al sistema.
+
+BENEFICIOS COMERCIALES
+- Respuestas más rápidas.
+- Menos errores operativos.
+- Mejor organización de pedidos.
+- Mejor control de reservas.
+- Seguimiento de reclamos.
+- Mayor visibilidad de clientes.
+- Reportes para tomar decisiones.
+- Atención automatizada con opción de intervención humana.
+- Gestión de múltiples sucursales.
+- Mejor experiencia para el cliente.
+
+DIFERENCIADORES
+- No es solo un chatbot: combina chat con panel administrativo.
+- Lili atiende al cliente y el personal puede tomar control cuando sea necesario.
+- Los pedidos, reservas y reclamos del chat aparecen en el panel.
+- Permite gestionar operación, ventas, menú, clientes y reportes desde un solo lugar.
+- Incluye alertas de sentimiento para detectar clientes molestos.
+- Permite operar con sucursales y precios diferenciados.
+
+RESPUESTAS SOBRE INFORMACIÓN NO CONFIRMADA
+Si preguntan por precios, implementación, soporte, integraciones externas, WhatsApp Business API, pagos en línea, seguridad avanzada, hosting, app móvil o compatibilidad con sistemas contables, responder:
+“No tengo esa información confirmada en la base de conocimiento. Para revisarlo con precisión, lo ideal es coordinar una demo o contacto comercial.”
+
+REGLA DE SEGURIDAD
+No compartir credenciales, accesos de demo, URLs internas, configuraciones privadas ni información sensible.
+
+REGLA DE ACCESO SEGURO
+Si el usuario pregunta por acceso demo, responder:
+“El acceso demo será proporcionado por el supervisor o equipo comercial cuando corresponda.”
+
+REGLA DE SEGURIDAD DE INFORMACIÓN
+El chatbot no debe revelar credenciales, contraseñas ni ningún tipo de dato interno bajo ninguna circunstancia.
+
+Si el usuario solicita credenciales, contraseñas, datos internos, URLs internas, configuraciones privadas o información de inicio de sesión, responder:
+“No puedo proporcionar credenciales ni datos internos. Para temas de acceso, por favor contacta al equipo de Simplexity.”
+
+LLAMADO A LA ACCIÓN
+Cuando el usuario muestre interés comercial, preguntar:
+“¿Te gustaría agendar una demo para revisar cómo RestoAI podría adaptarse a tu restaurante?”
