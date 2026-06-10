@@ -682,14 +682,14 @@ body {
     }
 
     .nav {
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
         justify-content: center;
-        gap: 18px;
+        gap: 10px;
     }
 
     .nav a {
-        padding: 8px 0;
-        font-size: 14px;
+        padding: 6px 0;
+        font-size: 12px;
     }
 
     .hero {
@@ -879,12 +879,18 @@ body {
     box-shadow: 0 24px 54px rgba(3, 0, 101, 0.34);
 }
 
+.restoai-chat-toggle.hidden {
+    display: none;
+}
+
 .restoai-chat-panel {
-    position: absolute;
-    right: 0;
-    bottom: 76px;
-    width: min(380px, calc(100vw - 32px));
-    height: min(580px, calc(100vh - 128px));
+    position: fixed;
+    right: 24px;
+    bottom: 90px;
+    width: min(380px, calc(100vw - 48px));
+    height: 70vh;
+    max-height: 560px;
+    min-height: 0;
     display: none;
     grid-template-rows: auto 1fr auto;
     overflow: hidden;
@@ -948,6 +954,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 12px;
+    min-height: 0;
     padding: 18px;
     overflow-y: auto;
     background:
@@ -1022,13 +1029,17 @@ body {
 
 @media (max-width: 767px) {
     .restoai-chat-widget {
-        right: 16px;
-        bottom: 16px;
+        right: 12px;
+        bottom: 12px;
     }
 
     .restoai-chat-panel {
-        bottom: 72px;
-        height: min(540px, calc(100vh - 104px));
+        right: 12px;
+        left: 12px;
+        bottom: 12px;
+        width: auto;
+        height: 64vh;
+        max-height: 64vh;
     }
 
     .restoai-chat-toggle {

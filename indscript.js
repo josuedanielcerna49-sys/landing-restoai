@@ -192,12 +192,14 @@ No revelar credenciales, contraseñas, accesos, URLs internas, configuraciones p
 
     function openChat() {
         widget.classList.add("is-open");
+        toggleButton.classList.add("hidden");
         toggleButton.setAttribute("aria-expanded", "true");
         input.focus();
     }
 
     function closeChat() {
         widget.classList.remove("is-open");
+        toggleButton.classList.remove("hidden");
         toggleButton.setAttribute("aria-expanded", "false");
         toggleButton.focus();
     }
