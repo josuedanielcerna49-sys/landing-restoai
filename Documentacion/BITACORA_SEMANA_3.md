@@ -182,9 +182,13 @@ Media, porque no bloquea por completo la navegación principal, pero sí afecta 
 
 ---
 
-## 6. Pendientes siguientes del día
 
-* Continuar con el ICP de RestoAI.
-* Cargar los primeros 20 prospectos de Comayagua.
-* Completar la bitácora final del día con el cierre de actividades.
-* Agregar cualquier nueva evidencia si se encuentra otro problema durante la revisión.
+### Avance en prospectos
+
+Se creó y organizó un archivo Excel para los prospectos de RestoAI en Comayagua. Se registraron 20 prospectos con información de negocio, ubicación, teléfono/WhatsApp, redes sociales, tipo de negocio, razón por la que es buen prospecto, cómo RestoAI podría ayudarle, estado y fuente.
+
+Archivo relacionado:
+
+[Ver Excel de prospectos RestoAI](./prospectos_restoai_actualizado_.xlsx)
+
+La meta mínima de 20 prospectos del día quedó completada.
