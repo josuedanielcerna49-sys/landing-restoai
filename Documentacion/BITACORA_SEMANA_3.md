@@ -192,3 +192,155 @@ Archivo relacionado:
 [Ver Excel de prospectos RestoAI](./prospectos_restoai_actualizado_.xlsx)
 
 La meta mínima de 20 prospectos del día quedó completada.
+
+---
+
+## Martes 16 de junio
+
+### Avance del día
+
+Durante la jornada se continuó con la expansión de prospectos para RestoAI, tomando como base los 20 prospectos de Comayagua que ya habían sido verificados en la hoja oficial. El objetivo del día fue completar nuevas ciudades, revisar la información de contacto, clasificar los prospectos y dejar evidencia del avance.
+
+---
+
+## 1. Expansión de prospectos RestoAI
+
+### Actividad realizada
+
+Se agregaron prospectos nuevos para RestoAI en las ciudades de **Tegucigalpa** y **San Pedro Sula**, siguiendo el filtro de restaurantes locales, cafeterías, comida rápida local, restaurantes/bar y negocios de comida con posibilidad de recibir pedidos o consultas por WhatsApp y redes sociales.
+
+No se incluyeron cadenas grandes como Wendy’s, KFC, McDonald’s, Popeyes u otras similares, porque este tipo de negocios normalmente ya cuenta con sistemas internos de atención y pedidos.
+
+### Resultado esperado
+
+Completar 60 prospectos totales de RestoAI en la hoja oficial:
+
+* 20 prospectos de Comayagua.
+* 20 prospectos de Tegucigalpa.
+* 20 prospectos de San Pedro Sula.
+
+### Resultado actual
+
+La hoja oficial de **Prospectos RestoAI** quedó actualizada con **60 prospectos totales**:
+
+| Ciudad         |       Rango de ID | Cantidad |
+| -------------- | ----------------: | -------: |
+| Comayagua      |     R-001 a R-020 |       20 |
+| Tegucigalpa    |     R-021 a R-040 |       20 |
+| San Pedro Sula |     R-041 a R-060 |       20 |
+| **Total**      | **R-001 a R-060** |   **60** |
+
+### Captura de evidencia
+
+![60 prospectos RestoAI en hoja oficial](../evidencias/prospectos-restoai-60-hoja-oficial.jpeg)
+
+---
+
+## 2. Revisión de datos y redes sociales
+
+### Actividad realizada
+
+Se revisaron manualmente los datos de los prospectos nuevos antes de dejarlos como avance en la hoja oficial. Se verificó que los restaurantes fueran negocios locales y que contaran con información útil para prospección.
+
+### Datos revisados
+
+* Nombre del negocio.
+* Ciudad/departamento.
+* Tipo de restaurante.
+* Teléfono o WhatsApp.
+* Facebook.
+* Instagram.
+* Fuente.
+* Señal de demanda.
+* Problema probable.
+* Prioridad.
+* Estado de contacto.
+* Notas.
+
+### Resultado actual
+
+Los prospectos de Tegucigalpa y San Pedro Sula fueron agregados con datos completos en la hoja oficial. También se revisaron las redes sociales y contactos para evitar dejar información inventada o dudosa.
+
+---
+
+## 3. Clasificación A/B/C
+
+### Actividad realizada
+
+Se inició la clasificación de los prospectos según su nivel de oportunidad comercial para RestoAI.
+
+### Criterio utilizado
+
+* **Prioridad A:** restaurante con contacto real, redes activas, señales claras de demanda, posibilidad de pedidos/reservas y dolor probable de atención por WhatsApp o redes.
+* **Prioridad B:** buen prospecto, pero falta confirmar más volumen, actividad o necesidad clara.
+* **Prioridad C:** prospecto a futuro, con menor información, menor actividad visible o menor urgencia para automatización.
+
+### Resultado actual
+
+La clasificación A/B/C quedó iniciada en la hoja oficial, tomando en cuenta contacto disponible, redes sociales, señales de demanda y problema probable.
+
+---
+
+## 4. Conteo parcial por ciudad
+
+### Resultado
+
+| Ciudad         | Cantidad de prospectos |
+| -------------- | ---------------------: |
+| Comayagua      |                     20 |
+| Tegucigalpa    |                     20 |
+| San Pedro Sula |                     20 |
+| **Total**      |                 **60** |
+
+---
+
+## 5. Top 10 preliminar de RestoAI
+
+### Actividad realizada
+
+Se trabajó un **Top 10 general** de los 60 prospectos de RestoAI. La selección responde a la pregunta: si mañana solo se pudieran contactar 10 restaurantes, cuáles serían los mejores y por qué.
+
+### Criterio utilizado
+
+Se priorizaron los restaurantes con mayor posibilidad de aceptar una demo o necesitar RestoAI, tomando en cuenta:
+
+* Contacto real disponible.
+* WhatsApp, teléfono, Facebook o Instagram.
+* Redes activas.
+* Señales de demanda.
+* Pedidos, reservas, eventos o delivery.
+* Buena presencia digital.
+* Problema probable relacionado con atención lenta, pedidos desordenados o muchas consultas repetidas.
+
+### Conteo del Top 10 por ciudad
+
+| Ciudad         | Cantidad en Top 10 |
+| -------------- | -----------------: |
+| Comayagua      |                  3 |
+| Tegucigalpa    |                  4 |
+| San Pedro Sula |                  3 |
+| **Total**      |             **10** |
+
+---
+
+## 6. Resumen del avance del martes
+
+* Se agregaron 20 prospectos de Tegucigalpa para RestoAI.
+* Se agregaron 20 prospectos de San Pedro Sula para RestoAI.
+* La hoja oficial quedó con 60 prospectos totales de RestoAI.
+* Se revisaron redes sociales y contactos de los prospectos nuevos.
+* Se evitó incluir cadenas grandes porque no encajan bien con el cliente ideal.
+* Se inició la clasificación A/B/C.
+* Se hizo conteo parcial por ciudad.
+* Se preparó el Top 10 general preliminar de RestoAI.
+* Se dejó evidencia con una captura de la hoja oficial mostrando los 60 prospectos.
+
+---
+
+## 7. Pendientes
+
+* Completar o ajustar la clasificación A/B/C si Amena solicita cambios.
+* Revisar el Top 10 preliminar si se requiere mayor justificación.
+* Continuar con el seguimiento de prospectos según el plan comercial.
+* Mantener pendiente externo: aceptación de la invitación de GitHub por parte de Allan.
+* Mantener pendiente técnico observado: chatbot no integrado en el deploy actual.
