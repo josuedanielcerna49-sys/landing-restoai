@@ -344,3 +344,36 @@ Se priorizaron los restaurantes con mayor posibilidad de aceptar una demo o nece
 * Continuar con el seguimiento de prospectos según el plan comercial.
 * Mantener pendiente externo: aceptación de la invitación de GitHub por parte de Allan.
 * Mantener pendiente técnico observado: chatbot no integrado en el deploy actual.
+
+## Miércoles 17 de junio
+
+Este día inicié revisando el backlog indicado por Allan para asegurar que lo trabajado en los días anteriores estuviera completo antes de continuar con las tareas nuevas. Verifiqué el estado de la hoja oficial de RestoAI, revisé que los prospectos ya cargados tuvieran información completa y confirmé que la base estuviera organizada por ciudad, tipo de negocio, canal de contacto, señal de demanda, problema probable y prioridad A/B/C.
+
+También trabajé en la ampliación de la base comercial de RestoAI hasta llegar a **100 prospectos reales**. La base quedó distribuida en cinco bloques principales: Comayagua, Tegucigalpa, San Pedro Sula, La Ceiba / Tela / Atlántida y Siguatepeque. Para completar los nuevos registros se investigaron restaurantes, cafés y negocios de comida con presencia pública en redes sociales, teléfonos o WhatsApp disponibles, evitando cadenas grandes o registros débiles.
+
+Se seleccionó **La Ceiba / Tela / Atlántida** como bloque adicional por su potencial turístico, concentración de restaurantes, zona costera, presencia de bares/cafés/comida local y señales de demanda en redes sociales o contactos públicos. También se incluyó **Siguatepeque** como complemento por ser una ciudad con movimiento comercial, restaurantes locales, cafés y negocios con atención por WhatsApp y redes sociales.
+
+Después de completar la base, realicé los conteos finales del mercado para analizar la distribución de prospectos por ciudad/zona, tipo de negocio, prioridad A/B/C y canales disponibles como teléfono, WhatsApp, Facebook, Instagram, TikTok y web/menú. Esto permitió tener una visión más clara del mercado inicial para RestoAI y de los segmentos con mayor oportunidad comercial.
+
+También se actualizó el **Top 10 RestoAI** con base en los 100 prospectos revisados. La selección se hizo priorizando negocios con mejor encaje comercial, prioridad A, canales de contacto visibles, presencia activa en redes, señales de demanda y problemas que RestoAI puede resolver, como consultas por WhatsApp, pedidos, menú, horarios, ubicación, reservaciones o atención en horas pico.
+
+Además, preparé la propuesta de **campaña piloto para RestoAI**, definiendo audiencia, geografía, presupuesto inicial, canal de campaña y objetivo comercial. La campaña se planteó para Meta Ads con conversión hacia WhatsApp, enfocada en generar conversaciones y agendar demos con dueños, administradores o encargados de restaurantes y cafés.
+
+Finalmente, redacté tres copies de anuncio para RestoAI con diferentes enfoques: dolor, solución y oferta. Todos fueron orientados a WhatsApp como canal de contacto para solicitar información o agendar una demostración.
+
+### Evidencia
+
+![Hoja oficial con 100 prospectos RestoAI](../evidencias/prospectos-restoai-100-hoja-oficial.jpeg)
+
+### Resumen del día
+
+* Se revisó el backlog pendiente.
+* Se completó la base comercial hasta 100 prospectos RestoAI.
+* Se investigaron y validaron nuevos prospectos de La Ceiba / Tela / Atlántida y Siguatepeque.
+* Se mantuvo la clasificación por prioridad A/B/C.
+* Se realizaron conteos finales por ciudad, tipo, canal y prioridad.
+* Se actualizó el Top 10 general de RestoAI.
+* Se preparó el análisis de mercado.
+* Se definió la campaña piloto.
+* Se redactaron 3 copies de anuncio con CTA a WhatsApp.
+* Se guardó evidencia de la hoja oficial con los 100 prospectos.
