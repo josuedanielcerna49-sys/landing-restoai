@@ -416,3 +416,13 @@ Finalmente, se armó el documento del **agente de prospección por WhatsApp para
 * Se creó el guion corto + idea de demo de Lili.
 * Se armó el flujo del agente de prospección por WhatsApp.
 * Se dejó preparado el material para respaldo en GitHub.
+
+### Chequeo final de hoja oficial
+
+También se realizó el chequeo final de la hoja oficial de **Prospectos RestoAI** para confirmar que la base quedara limpia antes del cierre. Se verificó que los registros estén completos de **R-001 a R-100**, sin errores visibles, sin IDs duplicados y con los estados nuevos corregidos como **Sin contactar** en lugar de Pendiente.
+
+Se dejó evidencia visual de la hoja oficial mostrando los 100 prospectos y confirmando que no quedan celdas con `#ERROR` dentro de la tabla principal.
+
+**Evidencia agregada:**
+
+* `evidencias/prospectos-restoai-100-hoja-limpia.png`
