@@ -426,3 +426,54 @@ Se dejó evidencia visual de la hoja oficial mostrando los 100 prospectos y conf
 **Evidencia agregada:**
 
 * `evidencias/prospectos-restoai-100-hoja-limpia.png`
+
+## Viernes 19 de junio
+
+Este día se inició revisando el backlog acumulado de la semana para confirmar que los entregables principales de RestoAI estuvieran completos antes del cierre. Se revisó el avance comercial y documental trabajado durante la semana, incluyendo la base de prospectos, análisis de mercado, Top 10, campaña piloto, artes, guion de demo, agente de prospección y evidencias.
+
+También se confirmó que la hoja oficial de **Prospectos RestoAI** quedara limpia, con los registros de **R-001 a R-100**, sin errores visibles en la tabla principal, sin IDs duplicados y con los estados nuevos marcados como **Sin contactar**. Se dejó evidencia visual de la hoja limpia para respaldar el cierre.
+
+Durante el día se trabajó en la preparación final de la campaña piloto de RestoAI. Se documentó una campaña en estado **borrador/pausa**, lista para revisión antes de ser activada. La campaña fue planteada para Meta Ads como canal principal, con enfoque en Facebook e Instagram y CTA hacia WhatsApp para solicitar una demo.
+
+También se preparó la estimación de resultados esperados según presupuesto. Se analizaron escenarios con inversión diaria de **L150, L200 y L250**, tomando como referencia el objetivo de generar conversaciones por WhatsApp, leads calificados y demos agendadas. Se recomendó iniciar con **L200 diarios durante 7 días**, equivalente a **L1,400 semanales**, para obtener datos suficientes sin escalar antes de validar el mensaje.
+
+Se actualizó el archivo `README.md` del repositorio para que reflejara el cierre completo de la semana. El README quedó reorganizado con la descripción del proyecto, link del deploy, tecnologías utilizadas, documentación comercial, evidencias, estado actual, avances completados y pendientes antes del outreach.
+
+Además, se preparó el documento de **mini-demo RestoAI de 5 a 7 minutos**, con una estructura clara para explicar el producto ante Allan. La demo incluye presentación de RestoAI, problema del mercado, cliente ideal, funcionamiento de Lili, panel administrativo, supervisión humana, campaña, prospectos y siguientes pasos comerciales.
+
+También se respondió por escrito el documento de **8 preguntas de criterio**, incluyendo cliente ideal, cantidad de prospectos reales, Top 10 justificado, presupuesto recomendado, canal inicial, mensaje de contacto, forma de calificación del agente y acciones del humano después de conseguir interés.
+
+### Archivos trabajados o actualizados
+
+* `README.md`
+* `Documentacion/CAMPANA_BORRADOR_RESTOAI.md`
+* `Documentacion/ESTIMACION_RESULTADOS_RESTOAI.md`
+* `Documentacion/MINI_DEMO_RESTOAI.md`
+* `Documentacion/PREGUNTAS_CRITERIO_RESTOAI.md`
+* `Documentacion/BITACORA_SEMANA_3.md`
+
+### Evidencia
+
+* `evidencias/prospectos-restoai-100-hoja-limpia.jpeg`
+* `evidencias/feed-restoai-simplexity.jpeg`
+* `evidencias/story-restoai-simplexity.jpeg`
+
+### Resumen del día
+
+* Se revisó el backlog del jueves.
+* Se confirmó la hoja oficial limpia con 100 prospectos.
+* Se dejó campaña piloto en borrador/pausa.
+* Se estimaron resultados esperados según presupuesto.
+* Se actualizó el README del proyecto.
+* Se ordenó la documentación comercial.
+* Se preparó la mini-demo de 5 a 7 minutos.
+* Se respondieron las 8 preguntas de criterio.
+* Se dejó el proyecto listo para respaldo final en GitHub.
+
+### Pendientes no bloqueantes
+
+* Validar WhatsApp/teléfonos activos del Top 10 antes de contactar.
+* No iniciar outreach hasta autorización.
+* Activar campaña solo con aprobación de Allan.
+* Confirmar si Allan ya aceptó la invitación de GitHub.
+* Integrar mejoras técnicas del chatbot/formulario solo si se solicita en una fase posterior.

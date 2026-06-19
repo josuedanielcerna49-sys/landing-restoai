@@ -1,19 +1,75 @@
-# Landing RestoAI
+# RestoAI — Landing, documentación comercial y validación
 
-Este proyecto consiste en el desarrollo de una landing page para **RestoAI**, creada con HTML, CSS y JavaScript. La página fue trabajada como parte de la práctica profesional, usando como referencia el estilo visual de Simplexity y adaptándola para presentar una solución de inteligencia artificial para restaurantes.
+Repositorio de trabajo para **RestoAI**, producto de Simplexity orientado a restaurantes, cafés y negocios de comida.
 
-## Trabajo realizado en el código
+Este proyecto reúne la landing page, documentación técnica, evidencia de práctica profesional y materiales de validación comercial desarrollados durante la semana de trabajo IPC.
 
-El proyecto se construyó desde una estructura web básica y luego se fue mejorando por etapas. Se trabajaron principalmente los archivos:
+## Enlaces principales
 
-* `index.html`
-* `style.css`
-* `indscript.js`
-* `base-conocimiento-restoai.txt`
-* `package.json`
-* Carpeta `imagenes/`
+- **Deploy principal:** https://restoai.simplexityla.com/
+- **Repositorio GitHub:** https://github.com/josuedanielcerna49-sys/landing-restoai
+- **Producto:** RestoAI
+- **Responsable del avance:** Josué Daniel Cerna Martínez
+- **Empresa:** Simplexity
+- **Práctica:** IPC — Validación comercial RestoAI / BarberAI
 
-## Estructura del proyecto
+## Resumen del proyecto
+
+RestoAI se presenta como un sistema asistido por inteligencia artificial para restaurantes.
+
+El objetivo del producto es ayudar a negocios de comida a organizar mejor su operación diaria, conectando la atención al cliente con un panel administrativo. La propuesta no se limita a un chatbot; RestoAI integra atención con Lili, pedidos, reservas, menú, clientes, reclamos, analíticas, monitor de chat y supervisión humana.
+
+Durante la práctica se trabajaron dos líneas principales:
+
+1. **Desarrollo y presentación técnica:** landing page, diseño responsive, chatbot Q&A y base de conocimiento.
+2. **Validación comercial:** prospectos, análisis de mercado, Top 10, campaña piloto, artes, concepto de video, guion de demo y agente de prospección por WhatsApp.
+
+## Estado actual
+
+Estado al cierre de la semana:
+
+- Landing page funcional.
+- Deploy revisado y respondiendo correctamente.
+- Documentación comercial respaldada en GitHub.
+- Base de **100 prospectos RestoAI** investigados y revisados.
+- Hoja oficial limpia, sin IDs duplicados y sin `#ERROR` en la tabla principal de prospectos.
+- Prospectos nuevos marcados como **Sin contactar**.
+- Top 10 general justificado sobre 100 prospectos.
+- Análisis de mercado completado.
+- Campaña piloto definida.
+- Campaña en borrador/pausa documentada.
+- Estimación de resultados esperados preparada.
+- Artes estilo Simplexity en formato feed y story.
+- Concepto de video RestoAI.
+- Guion corto + idea de demo de Lili.
+- Agente de prospección por WhatsApp documentado.
+- Bitácora de Semana 3 actualizada.
+- Evidencias organizadas en la carpeta `evidencias/`.
+
+## Qué es RestoAI
+
+RestoAI es una solución para restaurantes que busca centralizar la atención y operación del negocio.
+
+El sistema permite trabajar con:
+
+- Atención al cliente asistida por Lili.
+- Pedidos para recoger o a domicilio.
+- Reservas y mesas.
+- Menú, productos y categorías.
+- Precios por sucursal.
+- Sucursales.
+- Clientes.
+- Reclamos.
+- Alertas de sentimiento.
+- Monitor de chat.
+- Notificaciones.
+- Analíticas.
+- Punto de venta.
+- Facturación y configuración administrativa.
+
+La idea principal es que el cliente pueda interactuar con Lili y que la información relevante llegue al panel administrativo para que el equipo del restaurante pueda gestionar, supervisar o tomar control cuando sea necesario.
+
+## Estructura del repositorio
 
 ```text
 landing-restoai/
@@ -22,186 +78,385 @@ landing-restoai/
 ├── indscript.js
 ├── base-conocimiento-restoai.txt
 ├── package.json
-└── imagenes/
+├── README.md
+├── imagenes/
+├── evidencias/
+└── Documentacion/
 ```
 
-## Desarrollo del HTML
+## Archivos principales del código
 
-En el archivo `index.html` se creó la estructura principal de la landing. Se organizaron las secciones necesarias para presentar el producto de forma clara.
+### `index.html`
 
-Se trabajaron las siguientes partes:
+Contiene la estructura principal de la landing page:
 
-1. Header con logo y menú de navegación.
-2. Hero principal con título, descripción y botones de acción.
-3. Sección de problemas que resuelve RestoAI.
-4. Sección de beneficios del producto.
-5. Sección de cómo funciona.
-6. Barra tipo ticker con problemas comunes de restaurantes.
-7. Sección de contacto con datos institucionales.
-8. Estructura del chatbot flotante.
-9. Conexión con el archivo JavaScript `indscript.js`.
-10. Conexión con el archivo CSS `style.css`.
+- Header con logo y navegación.
+- Hero principal.
+- Secciones comerciales.
+- Problemas que resuelve RestoAI.
+- Beneficios.
+- Cómo funciona.
+- Contacto.
+- Estructura del chatbot flotante.
+- Conexión con CSS y JavaScript.
 
-También se agregaron recursos externos como Google Fonts y Font Awesome para mejorar las tipografías e íconos utilizados en la página.
+### `style.css`
 
-## Desarrollo del CSS
+Contiene el diseño visual de la landing:
 
-En `style.css` se trabajó todo el diseño visual de la landing.
+- Paleta inspirada en Simplexity.
+- Diseño responsive.
+- Hero visual.
+- Cards de beneficios y problemas.
+- Botones.
+- Animaciones.
+- Ajustes para celular.
+- Estilos del chatbot flotante.
 
-Se aplicaron estilos inspirados en Simplexity, usando colores como azul oscuro, cyan, verde lima y blanco. También se usaron tipografías como Fraunces, Montserrat y JetBrains Mono para darle una apariencia más profesional.
+### `indscript.js`
 
-Entre los cambios realizados en CSS están:
+Contiene la lógica del chatbot Q&A integrado en la landing:
 
-1. Creación de variables de color para mantener una paleta consistente.
-2. Diseño del header fijo y navegación.
-3. Diseño del hero con imagen de fondo y overlay azul.
-4. Ajustes del título principal y del texto `·AI`.
-5. Estilos para botones principales y secundarios.
-6. Diseño de cards para problemas y beneficios.
-7. Agregado de íconos con efectos hover.
-8. Creación de la barra animada tipo ticker.
-9. Diseño de la sección de contacto.
-10. Diseño completo del chatbot flotante.
-11. Ajustes responsive para celular.
-12. Corrección del tamaño del chat en móvil para que no tapara toda la pantalla.
-13. Scroll interno dentro del chat.
-14. Ajuste del menú en vista móvil.
-15. Ocultamiento del botón flotante cuando la ventana del chat está abierta.
+- Apertura y cierre del chat.
+- Mensajes del usuario.
+- Respuestas del bot.
+- Detección de palabras clave.
+- Respuestas sobre RestoAI, Lili, pedidos, reservas, menú, reclamos, clientes y analíticas.
+- Reglas para evitar responder temas fuera del producto.
+- Protección para no mostrar información sensible.
 
-## Trabajo con imágenes
+### `base-conocimiento-restoai.txt`
 
-Se trabajó la imagen principal del hero para que la landing tuviera una presentación visual más atractiva.
+Base de conocimiento usada para ordenar la información funcional del producto.
 
-Durante el proceso se revisó si convenía usar una imagen de La Cacerola o un fondo más general de restaurante. La idea fue que RestoAI se presentara como una solución para cualquier restaurante, no solamente para un negocio específico.
+Se dejó limpia de información sensible como:
 
-También se revisaron nombres y rutas de imágenes dentro de la carpeta `imagenes/`, asegurando que el CSS apuntara correctamente a la imagen usada en el hero.
+- Credenciales.
+- Contraseñas.
+- Accesos internos.
+- URLs privadas.
+- Información no apta para una landing pública.
 
-Ejemplo de ruta usada en CSS:
+## Documentación comercial
 
-```css
-url("./imagenes/hero-restaurante.png")
+La carpeta `Documentacion/` contiene el respaldo del trabajo comercial y de práctica.
+
+### Documentos de análisis y mercado
+
+- `ICP_RESTOAI.md`  
+  Define el perfil de cliente ideal para RestoAI.
+
+- `ANALISIS_MERCADO_RESTOAI.md`  
+  Resume los conteos finales, distribución de prospectos y lectura comercial del mercado.
+
+- `TOP_10_RESTOAI.md`  
+  Presenta los 10 prospectos más fuertes y justifica por qué deben contactarse primero.
+
+- `CAMPANA_PILOTO_RESTOAI.md`  
+  Define audiencia, geografía, presupuesto piloto, canal recomendado y copies de anuncio.
+
+- `CAMPANA_BORRADOR_RESTOAI.md`  
+  Estructura la campaña en Meta/Google en estado borrador/pausa, lista para revisión antes de activar.
+
+- `ESTIMACION_RESULTADOS_RESTOAI.md`  
+  Estima resultados esperados según presupuesto, incluyendo leads, conversaciones y demos posibles.
+
+### Documentos creativos y demo
+
+- `CONCEPTO_VIDEO_RESTOAI.md`  
+  Describe el concepto de video para redes: cliente, Lili, panel y operación conectada.
+
+- `GUION_DEMO_LILI_RESTOAI.md`  
+  Guion corto de 45–60 segundos e idea de demo de Lili.
+
+- `AGENTE_PROSPECCION_WHATSAPP_RESTOAI.md`  
+  Flujo del agente de prospección por WhatsApp: apertura, calificación, prospecto A, escalado y cierre.
+
+### Bitácora
+
+- `BITACORA_SEMANA_3.md`  
+  Registro diario del avance de práctica profesional, con resumen de actividades, evidencias y cierre por día.
+
+## Prospectos RestoAI
+
+Se trabajó una base comercial de **100 prospectos reales** para RestoAI.
+
+Distribución trabajada:
+
+| Ciudad / zona | Cantidad |
+|---|---:|
+| Comayagua | 20 |
+| Tegucigalpa | 20 |
+| San Pedro Sula | 20 |
+| La Ceiba / Tela / Atlántida | 20 |
+| Siguatepeque | 20 |
+| **Total** | **100** |
+
+La base fue revisada para mantener:
+
+- IDs correlativos de R-001 a R-100.
+- Datos de contacto.
+- Redes sociales.
+- Fuente.
+- Señal de demanda.
+- Problema probable.
+- Prioridad A/B/C.
+- Estado de contacto.
+- Notas útiles.
+- Sin IDs duplicados.
+- Sin `#ERROR` en la tabla principal.
+- Estados nuevos como **Sin contactar**.
+
+## Top 10 RestoAI
+
+Se creó un Top 10 general sobre los 100 prospectos.
+
+La selección se hizo considerando:
+
+- Prioridad A.
+- Canales de contacto visibles.
+- Presencia en redes.
+- Señales de demanda.
+- Potencial de pedidos, reservas o consultas.
+- Encaje con RestoAI.
+- Facilidad para primer contacto.
+- Potencial para agendar demo.
+
+El Top 10 no significa que esos negocios ya estén confirmados como clientes. Significa que son los mejores candidatos para contactar primero por tener mayor señal comercial.
+
+## Campaña piloto
+
+La campaña piloto se planteó para validar interés comercial de RestoAI.
+
+### Canal principal
+
+- Meta Ads.
+- Facebook.
+- Instagram.
+- CTA a WhatsApp.
+
+### Canal secundario
+
+- Google Ads en borrador/pausa como apoyo futuro.
+
+### Audiencia
+
+- Dueños de restaurantes.
+- Administradores.
+- Encargados de sucursal.
+- Restaurantes, cafés, restaurantes/bar y negocios de comida.
+- Negocios con pedidos, reservas o consultas por WhatsApp/redes.
+
+### Geografía
+
+- Comayagua.
+- Tegucigalpa.
+- San Pedro Sula.
+- La Ceiba / Tela / Atlántida.
+- Siguatepeque.
+
+### Presupuesto sugerido
+
+- L150 a L250 diarios.
+- L1,050 a L1,750 semanales.
+- Recomendación inicial: L200 diarios durante 7 días.
+
+### Objetivo
+
+Generar conversaciones por WhatsApp, validar interés y agendar demos.
+
+## Estimación de resultados
+
+Con un presupuesto recomendado de **L200 diarios durante 7 días** se espera una prueba inicial orientada a aprendizaje comercial.
+
+Estimación realista:
+
+| Métrica | Resultado esperado |
+|---|---:|
+| Alcance | 4,000 a 9,000 personas |
+| Clics/interacciones | 80 a 140 |
+| Leads por WhatsApp | 25 a 40 |
+| Demos agendadas | 4 a 6 |
+| Costo por lead | L35 a L55 |
+| Costo por demo | L230 a L350 |
+
+Estos resultados son estimaciones, no promesas. La campaña debe evaluarse por conversaciones reales, calidad de prospectos y demos agendadas.
+
+## Creativos estilo Simplexity
+
+Se trabajaron piezas visuales alineadas con la identidad de Simplexity:
+
+- Paleta azul/navy/cyan/verde lima.
+- Diseño tecnológico y limpio.
+- Logo visible.
+- Jerarquía clara.
+- Mensaje comercial.
+- CTA a WhatsApp.
+- Enfoque de sistema completo, no solo chatbot.
+
+Archivos de evidencia:
+
+- `evidencias/feed-restoai-simplexity.jpeg`
+- `evidencias/story-restoai-simplexity.jpeg`
+
+## Evidencias principales
+
+La carpeta `evidencias/` contiene capturas y respaldos visuales del trabajo realizado.
+
+Evidencias importantes:
+
+- `deploy-restoai.jpeg`
+- `invitacion-allan.jpeg`
+- `errores-imagenes.jpeg`
+- `error-gestion-visita-medica-asistente-medicos.jpeg`
+- `prospectos-restoai-60-hoja-oficial.jpeg`
+- `prospectos-restoai-100-hoja-oficial.jpeg`
+- `prospectos-restoai-100-hoja-limpia.jpeg`
+- `feed-restoai-simplexity.jpeg`
+- `story-restoai-simplexity.jpeg`
+
+## Desarrollo técnico de la landing
+
+La landing fue desarrollada usando:
+
+- HTML5.
+- CSS3.
+- JavaScript.
+- Google Fonts.
+- Font Awesome.
+- Railway.
+- GitHub.
+- Git.
+- Codex/IA como apoyo para revisión y generación de estructura.
+
+## Responsive y pruebas
+
+Se realizaron pruebas visuales para celular y escritorio.
+
+Ajustes trabajados:
+
+- Menú responsive.
+- Chatbot en vista móvil.
+- Tamaño del chat.
+- Scroll interno.
+- Botón flotante.
+- Jerarquía visual.
+- Lectura de textos.
+- Ajustes para que la landing no se vea saturada.
+
+## Deployment
+
+El proyecto se desplegó para revisión pública.
+
+Deploy principal:
+
+```text
+https://restoai.simplexityla.com/
 ```
 
-## Desarrollo del chatbot Q&A
-
-En `indscript.js` se trabajó la lógica del chatbot flotante integrado en la landing.
-
-El chatbot permite que el usuario haga preguntas sobre RestoAI / La Cacerola y reciba respuestas basadas en una base de conocimiento.
-
-Se implementaron funciones para:
-
-1. Abrir y cerrar la ventana del chat.
-2. Mostrar mensajes del usuario.
-3. Mostrar respuestas del bot.
-4. Procesar preguntas escritas en el input.
-5. Detectar palabras clave relacionadas con RestoAI.
-6. Responder sobre pedidos, reservas, menú, sucursales, reclamos, clientes, analíticas y Lili.
-7. Mantener el input y botón de enviar funcionando después de varias preguntas.
-8. Hacer scroll automático dentro del área de mensajes.
-9. Evitar que el chatbot responda temas fuera de RestoAI.
-10. Evitar mostrar credenciales o información sensible.
-
-## Base de conocimiento
-
-Se creó el archivo `base-conocimiento-restoai.txt` para separar la información funcional del producto.
-
-Antes de usar esa base, se eliminó cualquier dato sensible como:
-
-* Credenciales.
-* Contraseñas.
-* Accesos internos.
-* URLs privadas.
-* Información no apta para una landing pública.
-
-La base quedó enfocada en explicar:
-
-1. Qué es RestoAI.
-2. Qué hace Lili.
-3. Cómo funciona el panel.
-4. Cómo se gestionan pedidos.
-5. Cómo funcionan reservas.
-6. Qué módulos tiene el sistema.
-7. Qué beneficios ofrece a restaurantes.
-8. Cómo se manejan reclamos.
-9. Qué hace el monitor de chat.
-10. Qué información no debe revelar el chatbot.
-
-## Responsive y pruebas en celular
-
-Una parte importante del trabajo fue ajustar la landing para que funcionara bien en celular.
-
-Se usó DevTools del navegador para probar anchos como:
-
-* 400px
-* 390px
-
-Durante esas pruebas se corrigió:
-
-1. Que el chat no se saliera de la pantalla.
-2. Que el chat no tapara todo el hero.
-3. Que la landing siguiera visible detrás del chat.
-4. Que el input quedara accesible.
-5. Que el botón de enviar siguiera visible.
-6. Que los mensajes hicieran scroll interno.
-7. Que el botón flotante no quedara duplicado detrás del chat.
-8. Que el menú móvil se viera más limpio.
-
-## Deployment en Railway
-
-Para publicar la landing se agregó configuración para Railway usando `package.json`.
-
-El proyecto fue desplegado en Railway para obtener una URL pública y probar la página fuera del entorno local.
-
-URL pública del proyecto:
+Deploy técnico usado durante el proceso:
 
 ```text
 https://simplexityrestoai-production.up.railway.app
 ```
 
-## Repositorio de GitHub
+## Cómo correr el proyecto localmente
 
-El proyecto también fue subido a GitHub para mantener el control de versiones y evidenciar el avance del desarrollo.
+Este proyecto es una landing estática con HTML, CSS y JavaScript.
 
-Repositorio:
+Pasos básicos:
 
-```text
-https://github.com/josuedanielcerna49-sys/landing-restoai
+1. Clonar el repositorio.
+
+```bash
+git clone https://github.com/josuedanielcerna49-sys/landing-restoai.git
 ```
 
-## Commits realizados
+2. Entrar a la carpeta.
 
-Durante el proceso se hicieron commits para guardar avances importantes como:
+```bash
+cd landing-restoai
+```
 
-1. Creación inicial de la estructura de la landing.
-2. Mejoras visuales del hero y secciones.
-3. Agregado del agente Q&A.
-4. Ajustes responsive del chatbot.
-5. Preparación para deployment.
-6. Publicación en Railway.
+3. Instalar dependencias si se usa el entorno con `package.json`.
 
-## Tecnologías utilizadas
+```bash
+npm install
+```
 
-* HTML5
-* CSS3
-* JavaScript
-* Git
-* GitHub
-* Railway
-* Google Fonts
-* Font Awesome
-* Codex como apoyo para edición y revisión de código
+4. Ejecutar el proyecto.
 
-## Estado final
+```bash
+npm start
+```
 
-El proyecto quedó con:
+5. Abrir el navegador en la dirección indicada por la terminal.
 
-* Landing page funcional.
-* Diseño responsive.
-* Hero, secciones, cards y contacto.
-* Chatbot Q&A integrado.
-* Base de conocimiento limpia y segura.
-* Reglas para no revelar información sensible.
-* Deployment público en Railway.
-* Repositorio actualizado en GitHub.
+También puede revisarse abriendo directamente `index.html` en el navegador si no se requiere servidor.
 
-El resultado final es una landing funcional para presentar RestoAI, explicar sus beneficios y permitir que un visitante interactúe con un chatbot informativo sobre el producto.
+## Validación comercial
+
+Durante la semana se trabajó para pasar de una presentación técnica a una validación comercial.
+
+Avances principales:
+
+- Revisión del deploy.
+- Checklist de funcionamiento.
+- Lista de mejoras detectadas.
+- ICP de RestoAI.
+- Base de 100 prospectos.
+- Clasificación A/B/C.
+- Conteos finales.
+- Top 10 justificado.
+- Campaña piloto.
+- Copies con CTA.
+- Campaña en borrador/pausa.
+- Estimación de resultados.
+- Artes estilo Simplexity.
+- Concepto de video.
+- Guion/demo de Lili.
+- Agente de prospección WhatsApp.
+- Bitácora y evidencias.
+
+## Pendientes antes de outreach
+
+Antes de contactar prospectos se debe:
+
+- Validar que los WhatsApp/teléfonos del Top 10 estén activos.
+- Preparar mensajes personalizados por restaurante.
+- No enviar mensajes masivos.
+- Registrar el estado de contacto en la hoja oficial.
+- Agendar demo solo si hay interés real.
+- Escalar a humano cuando pidan precio, condiciones o demo.
+- Activar campaña únicamente con aprobación de Allan.
+- Confirmar presupuesto final autorizado.
+
+## Pendientes técnicos no bloqueantes
+
+Estos pendientes no bloquean el avance comercial, pero quedan documentados para fases posteriores:
+
+- Aceptación de la invitación GitHub por Allan si todavía no aparece aceptada.
+- Integración o mejora técnica del chatbot/formulario si se solicita más adelante.
+- Revisión de detalles visuales finales en el deploy.
+- Posibles mejoras en flujo de Lili según feedback de demo.
+
+## Estado final de la semana
+
+Al cierre de la semana, RestoAI queda respaldado como avance comercial/documental con:
+
+- Landing funcional.
+- Deploy revisado.
+- Repositorio actualizado.
+- Base de 100 prospectos.
+- Hoja oficial limpia.
+- Análisis de mercado.
+- Top 10 justificado.
+- Campaña piloto.
+- Estimación de resultados.
+- Artes comerciales.
+- Concepto de video.
+- Guion/demo de Lili.
+- Agente de prospección.
+- Bitácora y evidencias.
+
+El proyecto queda listo para revisión de Allan y para pasar a la siguiente fase: validar contactos activos, preparar mensajes personalizados y avanzar hacia demos comerciales.
