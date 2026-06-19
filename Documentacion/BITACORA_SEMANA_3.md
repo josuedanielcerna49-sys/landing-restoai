@@ -477,3 +477,11 @@ También se respondió por escrito el documento de **8 preguntas de criterio**, 
 * Activar campaña solo con aprobación de Allan.
 * Confirmar si Allan ya aceptó la invitación de GitHub.
 * Integrar mejoras técnicas del chatbot/formulario solo si se solicita en una fase posterior.
+
+## Nota de estado comercial
+
+La campaña de RestoAI queda únicamente preparada en estado borrador/pausa. No se activó pauta en Meta Ads, Google Ads ni ningún otro canal.
+
+El outreach a prospectos tampoco fue ejecutado. Los mensajes, flujo de agente y Top 10 quedan preparados para una siguiente fase.
+
+Antes de contactar prospectos reales, se debe validar visualmente que los WhatsApp/teléfonos del Top 10 estén activos y contar con autorización para iniciar el contacto.

@@ -251,3 +251,11 @@ Durante la semana se completó:
 * Evidencias y bitácora en GitHub.
 
 El siguiente paso recomendado es validar WhatsApp/teléfonos activos del Top 10 y comenzar outreach personalizado solo cuando Allan lo autorice.
+
+## Nota de estado comercial
+
+La campaña de RestoAI queda únicamente preparada en estado borrador/pausa. No se activó pauta en Meta Ads, Google Ads ni ningún otro canal.
+
+El outreach a prospectos tampoco fue ejecutado. Los mensajes, flujo de agente y Top 10 quedan preparados para una siguiente fase.
+
+Antes de contactar prospectos reales, se debe validar visualmente que los WhatsApp/teléfonos del Top 10 estén activos y contar con autorización para iniciar el contacto.
