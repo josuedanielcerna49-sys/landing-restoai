@@ -338,3 +338,85 @@ También se debe llenar la columna de **Fecha próximo paso** cuando haya que da
 8. Si pide más información, explicar corto.
 9. Si acepta, escalar a humano o agendar.
 10. Registrar estado y próximo paso en la hoja.
+
+---
+
+# Estado del agente OpenClaw + Codex para publicación
+
+## Estado actual
+
+El agente todavía queda en fase de definición y documentación. Ya se tiene organizado el contenido de RestoAI por días y canales, incluyendo calendario de 15 días y copies para Facebook, Instagram y WhatsApp.
+
+Por ahora no se publicará ni se contactará a prospectos reales, siguiendo la indicación de la semana final.
+
+## Estado de WhatsApp
+
+WhatsApp será el canal principal de CTA para la campaña de RestoAI.
+
+Estado actual:
+
+- Los mensajes están preparados como borrador.
+- Los copies incluyen CTA hacia WhatsApp.
+- El flujo de prospección está documentado.
+- No se ha conectado una cuenta real de WhatsApp.
+- No se contactarán prospectos reales esta semana.
+
+Bloqueo:
+
+- Falta definir qué número/cuenta de WhatsApp se usará.
+- Falta autorización de Allan para usarlo.
+- Falta confirmar si será WhatsApp Web, WhatsApp Business o API.
+
+## Estado de Facebook e Instagram
+
+Facebook e Instagram quedan como canales de publicación para los artes de RestoAI.
+
+Estado actual:
+
+- El calendario de contenido ya está definido.
+- Los artes están organizados por día y canal.
+- Los copies están separados por Facebook, Instagram y WhatsApp.
+- La publicación real queda pendiente de validación.
+
+Bloqueo:
+
+- No se tienen credenciales finales de Facebook/Instagram.
+- Falta confirmar qué página o cuenta se usará.
+- Falta definir si el agente publicará directamente o solo dejará borradores.
+- Falta validación final de Allan antes de publicar en masa.
+
+## Credenciales necesarias
+
+Para que el agente pueda funcionar se necesita:
+
+- Acceso al repositorio donde están los artes.
+- Acceso a la cuenta o número de WhatsApp autorizado.
+- Acceso a Facebook o Meta Business Suite.
+- Acceso a la cuenta de Instagram vinculada.
+- Confirmación de Allan sobre permisos de publicación.
+- Confirmación del flujo: borrador, programación o publicación directa.
+
+## Flujo de publicación propuesto
+
+1. Revisar el calendario de contenido de 15 días.
+2. Seleccionar el día correspondiente.
+3. Tomar el arte del canal indicado:
+   - Facebook
+   - Instagram
+   - WhatsApp
+4. Copiar el mensaje/copy correspondiente.
+5. Verificar que el arte cumpla:
+   - Un solo mensaje.
+   - Un solo CTA.
+   - Marca Simplexity.
+   - Foto real de restaurante/persona.
+   - Tamaño correcto según canal.
+6. Preparar la publicación.
+7. Dejarla en borrador o publicarla solo si Allan lo autoriza.
+8. Registrar evidencia en la bitácora.
+
+## Bloqueo actual
+
+El bloqueo principal es que todavía no hay autorización para contactar prospectos reales ni publicar contenido final sin validación.
+
+También falta definir accesos reales a WhatsApp, Facebook e Instagram para que OpenClaw + Codex pueda operar el flujo completo.
