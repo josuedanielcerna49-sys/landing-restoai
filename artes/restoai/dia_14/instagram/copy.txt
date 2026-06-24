@@ -1,0 +1,10 @@
+Día 14 - Menos desorden operativo
+Red: Instagram
+Formato: Story-Reel 1080x1920
+Archivo esperado: artes/restoai/dia_14/instagram/1080x1920.png
+Enfoque del día: RestoAI centraliza pedidos, reservas, menú, clientes, reclamos, chat y seguimiento del restaurante.
+Mensaje: Simplifica tu operación.
+Texto secundario: Un sistema para manejar mejor el día a día del restaurante.
+CTA: Probá RestoAI.
+Escena sugerida: antes/después sutil: caos de notas vs tablet organizada, sin hacerlo exagerado.
+Prompt compacto para generar el arte: Crear arte Story-Reel 1080x1920 para Instagram de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Menos desorden operativo. Mensaje principal: “Simplifica tu operación.”. Texto secundario: “Un sistema para manejar mejor el día a día del restaurante.”. CTA único: “Probá RestoAI.”. Escena: antes/después sutil: caos de notas vs tablet organizada, sin hacerlo exagerado. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

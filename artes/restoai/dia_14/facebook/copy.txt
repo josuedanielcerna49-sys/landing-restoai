@@ -1,0 +1,10 @@
+Día 14 - Menos desorden operativo
+Red: Facebook
+Formato: Historia 1080x1920
+Archivo esperado: artes/restoai/dia_14/facebook/1080x1920.png
+Enfoque del día: RestoAI centraliza pedidos, reservas, menú, clientes, reclamos, chat y seguimiento del restaurante.
+Mensaje: Menos desorden. Más control.
+Texto secundario: Pedidos, reservas, menú, clientes y reclamos en una sola solución.
+CTA: Pedí una demo por WhatsApp.
+Escena sugerida: equipo de restaurante trabajando coordinado, tarjetas de módulos alrededor sin saturar.
+Prompt compacto para generar el arte: Crear arte Historia 1080x1920 para Facebook de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Menos desorden operativo. Mensaje principal: “Menos desorden. Más control.”. Texto secundario: “Pedidos, reservas, menú, clientes y reclamos en una sola solución.”. CTA único: “Pedí una demo por WhatsApp.”. Escena: equipo de restaurante trabajando coordinado, tarjetas de módulos alrededor sin saturar. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

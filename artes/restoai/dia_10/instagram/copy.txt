@@ -1,0 +1,10 @@
+Día 10 - Clientes frecuentes
+Red: Instagram
+Formato: Story-Reel 1080x1920
+Archivo esperado: artes/restoai/dia_10/instagram/1080x1920.png
+Enfoque del día: RestoAI permite ver clientes, pedidos, contacto y nivel de lealtad para mejorar seguimiento.
+Mensaje: Tus clientes, mejor organizados.
+Texto secundario: Datos, pedidos y seguimiento desde un solo sistema.
+CTA: Probá RestoAI.
+Escena sugerida: cliente recibiendo pedido en restaurante, tarjetas de pedidos y puntos como interfaz sutil.
+Prompt compacto para generar el arte: Crear arte Story-Reel 1080x1920 para Instagram de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Clientes frecuentes. Mensaje principal: “Tus clientes, mejor organizados.”. Texto secundario: “Datos, pedidos y seguimiento desde un solo sistema.”. CTA único: “Probá RestoAI.”. Escena: cliente recibiendo pedido en restaurante, tarjetas de pedidos y puntos como interfaz sutil. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

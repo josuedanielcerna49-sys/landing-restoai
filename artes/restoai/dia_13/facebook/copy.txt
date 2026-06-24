@@ -1,0 +1,10 @@
+Día 13 - Analíticas
+Red: Facebook
+Formato: Historia 1080x1920
+Archivo esperado: artes/restoai/dia_13/facebook/1080x1920.png
+Enfoque del día: RestoAI ayuda a revisar reportes y tendencias de ventas, pedidos y comportamiento de clientes.
+Mensaje: Toma decisiones con datos reales de tu restaurante.
+Texto secundario: Ventas, pedidos y comportamiento de clientes en reportes claros.
+CTA: Escríbenos por WhatsApp.
+Escena sugerida: dueño revisando gráficas en laptop dentro del restaurante, luz profesional.
+Prompt compacto para generar el arte: Crear arte Historia 1080x1920 para Facebook de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Analíticas. Mensaje principal: “Toma decisiones con datos reales de tu restaurante.”. Texto secundario: “Ventas, pedidos y comportamiento de clientes en reportes claros.”. CTA único: “Escríbenos por WhatsApp.”. Escena: dueño revisando gráficas en laptop dentro del restaurante, luz profesional. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

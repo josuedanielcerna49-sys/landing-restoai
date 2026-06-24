@@ -1,0 +1,10 @@
+Día 08 - Sucursales
+Red: Facebook
+Formato: Historia 1080x1920
+Archivo esperado: artes/restoai/dia_08/facebook/1080x1920.png
+Enfoque del día: RestoAI ayuda a controlar datos, servicios, zonas de entrega, costos y disponibilidad por sucursal.
+Mensaje: Controla varias sucursales desde un solo sistema.
+Texto secundario: Precios, servicios y zonas de entrega por sucursal.
+CTA: Agenda una demo.
+Escena sugerida: dueño revisando dos o tres ubicaciones en tablet, ambiente corporativo/restaurante.
+Prompt compacto para generar el arte: Crear arte Historia 1080x1920 para Facebook de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Sucursales. Mensaje principal: “Controla varias sucursales desde un solo sistema.”. Texto secundario: “Precios, servicios y zonas de entrega por sucursal.”. CTA único: “Agenda una demo.”. Escena: dueño revisando dos o tres ubicaciones en tablet, ambiente corporativo/restaurante. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

@@ -1,13 +1,10 @@
-WhatsApp
-
-Texto dentro del arte:
-Lili responde por tu restaurante.
-Tu equipo puede tomar control cuando quiera.
-Pedí la demo por WhatsApp.
-
-Copy para publicar:
-Con RestoAI, Lili puede atender a tus clientes y tu equipo puede intervenir si hace falta.
-
-Atención con IA, pero siempre con control humano.
-
-Pedí la demo por WhatsApp.
+Día 04 - Pedidos a domicilio
+Red: WhatsApp
+Formato: Estado 1080x1920
+Archivo esperado: artes/restoai/dia_04/whatsapp/1080x1920.png
+Enfoque del día: RestoAI permite ordenar el flujo de domicilio: dirección, referencias, tipo de pedido y estado de entrega.
+Mensaje: Pedidos a domicilio sin tanto desorden.
+Texto secundario: RestoAI ayuda a tomar datos del cliente y organizar cada pedido.
+CTA: Pedí información.
+Escena sugerida: celular mostrando datos de cliente, dirección y referencia, con cocina de restaurante de fondo.
+Prompt compacto para generar el arte: Crear arte Estado 1080x1920 para WhatsApp de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Pedidos a domicilio. Mensaje principal: “Pedidos a domicilio sin tanto desorden.”. Texto secundario: “RestoAI ayuda a tomar datos del cliente y organizar cada pedido.”. CTA único: “Pedí información.”. Escena: celular mostrando datos de cliente, dirección y referencia, con cocina de restaurante de fondo. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

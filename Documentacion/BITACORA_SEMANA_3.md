@@ -485,3 +485,61 @@ La campaña de RestoAI queda únicamente preparada en estado borrador/pausa. No 
 El outreach a prospectos tampoco fue ejecutado. Los mensajes, flujo de agente y Top 10 quedan preparados para una siguiente fase.
 
 Antes de contactar prospectos reales, se debe validar visualmente que los WhatsApp/teléfonos del Top 10 estén activos y contar con autorización para iniciar el contacto.
+
+**Lunes 22 de junio**
+
+Inicié la semana final revisando las indicaciones principales para la campaña de RestoAI. El enfoque de esta semana era preparar material de marketing para el producto, dejando organizado el contenido por días, redes sociales y mensajes, sin contactar todavía a prospectos reales.
+
+Durante el día trabajé en la planificación general de la campaña de contenido para RestoAI. Revisé que el producto está dirigido a restaurantes que necesitan mejorar su atención, pedidos, reservas, seguimiento de clientes y organización interna. A partir de eso empecé a ordenar los beneficios principales del sistema para convertirlos en mensajes publicitarios.
+
+También trabajé en el Buyer Persona de RestoAI, pensando en dueños, administradores o encargados de restaurantes que tienen problemas con pedidos por WhatsApp, reservas desordenadas, clientes sin seguimiento, reclamos sin atender o falta de control operativo. Esto ayudó a definir mejor a quién iba dirigida la campaña y qué tipo de mensajes podían ser más útiles.
+
+Además, empecé a definir los ángulos de contenido para los 15 días de campaña. Separé ideas como atención 24/7, reservas, pedidos a domicilio, reclamos, punto de venta, menú digital, sucursales, facturación, clientes frecuentes, monitor de chat, notificaciones, analíticas y demo final. La idea fue que cada día tuviera un beneficio diferente para no repetir el mismo mensaje en todos los artes.
+
+También revisé la guía de marca Simplexity para aplicarla en los artes. Tomé en cuenta los colores oficiales, el uso correcto del logo, la tipografía, el estilo profesional y la regla de usar un solo mensaje por arte. Desde este día quedó claro que los diseños no debían verse genéricos ni saturados, sino como una marca seria de software para restaurantes.
+
+Durante el trabajo preparé la base de la estructura del repositorio para organizar los archivos por día y por canal. También se empezó a dejar la lógica de que cada arte debía tener su propio copy y su propia carpeta, para que después fuera más fácil subir evidencias y mantener ordenada la entrega.
+
+---
+
+**Martes 23 de junio**
+
+Este día continué con la organización del contenido de RestoAI para la semana final. Trabajé principalmente en dejar más clara la estructura de la campaña de 15 días y los 3 canales principales: Facebook, Instagram y WhatsApp.
+
+Organicé el calendario de contenido de RestoAI, separando cada día por tema o beneficio. También se ordenaron los mensajes para que cada canal tuviera un enfoque diferente. Para Facebook se plantearon mensajes más comerciales y explicativos; para Instagram, mensajes más visuales y directos; y para WhatsApp, mensajes más personales, cortos y fáciles de leer desde celular.
+
+También trabajé con las carpetas del repositorio, organizando los días y las redes sociales. Se dejaron carpetas para Facebook, Instagram y WhatsApp dentro de cada día, y se prepararon archivos de copy para mantener separados los mensajes de cada arte. Esto ayudó a evitar confusión entre redes, días y textos.
+
+Durante el día revisé la estructura de los días 1 al 5, que correspondían a la primera tanda de artes. Se confirmó que la organización estaba lista en el repositorio y que los copies estaban separados por canal. También se revisó Git para confirmar que el repositorio no tuviera cambios pendientes, usando el estado del árbol de trabajo.
+
+Además, avancé con la documentación del agente de prospección y publicación relacionado con OpenClaw + Codex. Se dejó escrito el estado de WhatsApp, Facebook e Instagram, las credenciales necesarias, el flujo propuesto de publicación y los bloqueos actuales. Se aclaró que todavía no había credenciales finales ni autorización para contactar prospectos reales.
+
+En la parte de diseño, empecé a trabajar prompts para generar artes de RestoAI siguiendo la marca Simplexity. Aquí surgió un problema importante: la IA intentaba modificar o inventar el logo de Simplexity. Por eso se decidió cambiar la estrategia y dejar un espacio libre en la parte superior del diseño para colocar el logo oficial manualmente después.
+
+También se ajustaron los prompts para evitar que la IA agregara elementos extraños junto al texto “RestoAI”. Se indicó que RestoAI debía aparecer solo como palabra, sin robots, íconos, adornos ni símbolos al lado. Esto ayudó a mantener la marca más limpia y profesional.
+
+Al finalizar el día, quedó avanzada la estructura de la campaña, la documentación del agente, el calendario de contenido, los copies y la organización del repositorio. Quedó pendiente continuar con la producción visual de los artes y validar el estilo con Allan antes de producir en masa.
+
+---
+
+**Miércoles 24 de junio**
+
+Este día continué trabajando en los artes visuales de RestoAI y en la mejora de los prompts para que los diseños salieran más profesionales, ordenados y alineados a la marca Simplexity.
+
+Primero se respondió el standup del día, indicando los avances del martes, los pendientes reales y los bloqueos. Se aclaró que ya había organización de calendario, buyer persona, mapa de contenido, copies, carpetas y documentación del agente, pero que todavía se debía seguir avanzando en la producción visual de los artes.
+
+Durante la mañana se recibió validación positiva de Allan por WhatsApp. Allan indicó “Proceda”, que las artes estaban excelentes y que el video también. Esa validación fue importante porque permitió continuar con más seguridad la producción de diseños en masa, usando el estilo ya aprobado.
+
+Después trabajé en la creación y mejora de prompts para los artes del día 2 y día 3 de la campaña. El día 2 se enfocó en atención 24/7, con mensajes diferentes para Instagram y WhatsApp. El día 3 se enfocó en reservas ordenadas, preparando prompts separados para Facebook, Instagram y WhatsApp.
+
+También me compliqué con la parte de las imágenes porque algunos diseños generados por IA salían muy cargados, desordenados o con elementos puestos al azar. Por eso fui ajustando las instrucciones para pedir diseños más profesionales, limpios, premium y ordenados, con mejor jerarquía visual entre el título principal, el texto secundario y el CTA.
+
+Se trabajó en dejar claro que cada diseño debía tener un solo mensaje principal, un solo CTA, poco texto, buena separación visual y una escena realista de restaurante o persona. También se pidió evitar fondos caóticos, demasiadas tarjetas, íconos innecesarios, textos pequeños o elementos que hicieran ver el arte desordenado.
+
+Además, se corrigió la instrucción sobre el espacio del logo. Antes la IA dejaba un rectángulo o caja para colocar el logo, lo cual no se veía bien. Por eso se cambió la indicación para pedir “aire visual limpio” en la parte superior, sin dibujar rectángulo, borde, caja, sombra, marco ni placeholder. El objetivo fue que el fondo continuara normal y limpio en esa zona para colocar el logo oficial manualmente después.
+
+También se reforzó la regla de que el texto “RestoAI” debe aparecer solo como palabra, sin íconos, robots, adornos ni símbolos al lado. Esto fue necesario porque la IA agregaba elementos raros junto al nombre del producto y afectaba la presentación profesional del diseño.
+
+Durante el día también se creó un PDF interno con los 14 días restantes de la campaña, del día 02 al 15. Ese documento organizó los mensajes, copies, rutas de guardado y prompts por red social, para evitar confusiones al producir los artes restantes. Sirve como fuente interna del proyecto para saber qué mensaje corresponde a cada día y a cada canal.
+
+Finalmente, se continuó dejando todo alineado con la entrega final: artes por día y red social, mensajes separados, guía de prompts, validación de estilo, documentación del agente OpenClaw + Codex y preparación de contenido sin contactar prospectos reales.

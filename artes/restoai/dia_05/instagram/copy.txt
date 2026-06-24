@@ -1,13 +1,10 @@
-Instagram
-
-Texto dentro del arte:
-Todo más ordenado con IA.
-Pedidos, consultas y clientes en un solo sistema.
-Agenda una demo por WhatsApp.
-
-Copy para publicar:
-Tu restaurante necesita responder rápido y mantenerse organizado.
-
-RestoAI ayuda a centralizar la atención, los pedidos y las consultas con apoyo de IA.
-
-Agenda una demo por WhatsApp.
+Día 05 - Reclamos y clientes molestos
+Red: Instagram
+Formato: Story-Reel 1080x1920
+Archivo esperado: artes/restoai/dia_05/instagram/1080x1920.png
+Enfoque del día: RestoAI ayuda a identificar reclamos y alertas de sentimiento para intervenir a tiempo.
+Mensaje: Cuida mejor a tus clientes.
+Texto secundario: Reclamos, alertas y seguimiento desde un solo sistema.
+CTA: Conoce RestoAI.
+Escena sugerida: empleado atendiendo a cliente con buena actitud, tarjeta flotante de alerta de sentimiento resuelta.
+Prompt compacto para generar el arte: Crear arte Story-Reel 1080x1920 para Instagram de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Reclamos y clientes molestos. Mensaje principal: “Cuida mejor a tus clientes.”. Texto secundario: “Reclamos, alertas y seguimiento desde un solo sistema.”. CTA único: “Conoce RestoAI.”. Escena: empleado atendiendo a cliente con buena actitud, tarjeta flotante de alerta de sentimiento resuelta. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

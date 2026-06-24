@@ -1,0 +1,10 @@
+Día 11 - Monitor de chat
+Red: Facebook
+Formato: Historia 1080x1920
+Archivo esperado: artes/restoai/dia_11/facebook/1080x1920.png
+Enfoque del día: RestoAI permite supervisar conversaciones de Lili y tomar control humano si hace falta.
+Mensaje: Supervisa las conversaciones con tus clientes.
+Texto secundario: Lili responde, y tu equipo puede tomar control cuando haga falta.
+CTA: Escríbenos por WhatsApp.
+Escena sugerida: encargado monitoreando chat en laptop/tablet, restaurante de fondo.
+Prompt compacto para generar el arte: Crear arte Historia 1080x1920 para Facebook de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Monitor de chat. Mensaje principal: “Supervisa las conversaciones con tus clientes.”. Texto secundario: “Lili responde, y tu equipo puede tomar control cuando haga falta.”. CTA único: “Escríbenos por WhatsApp.”. Escena: encargado monitoreando chat en laptop/tablet, restaurante de fondo. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

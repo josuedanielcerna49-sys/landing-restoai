@@ -1,0 +1,10 @@
+Día 12 - Notificaciones
+Red: Facebook
+Formato: Historia 1080x1920
+Archivo esperado: artes/restoai/dia_12/facebook/1080x1920.png
+Enfoque del día: RestoAI centraliza avisos importantes: pedidos nuevos, reservas, reclamos y otros eventos.
+Mensaje: No dejes pasar pedidos, reservas o reclamos.
+Texto secundario: Notificaciones importantes para que el equipo esté pendiente.
+CTA: Agenda una demo.
+Escena sugerida: encargado recibiendo alerta en tablet mientras trabaja en restaurante ocupado.
+Prompt compacto para generar el arte: Crear arte Historia 1080x1920 para Facebook de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Notificaciones. Mensaje principal: “No dejes pasar pedidos, reservas o reclamos.”. Texto secundario: “Notificaciones importantes para que el equipo esté pendiente.”. CTA único: “Agenda una demo.”. Escena: encargado recibiendo alerta en tablet mientras trabaja en restaurante ocupado. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

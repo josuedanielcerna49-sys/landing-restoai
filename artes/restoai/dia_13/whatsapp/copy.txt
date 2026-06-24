@@ -1,0 +1,10 @@
+Día 13 - Analíticas
+Red: WhatsApp
+Formato: Estado 1080x1920
+Archivo esperado: artes/restoai/dia_13/whatsapp/1080x1920.png
+Enfoque del día: RestoAI ayuda a revisar reportes y tendencias de ventas, pedidos y comportamiento de clientes.
+Mensaje: Revisa tus números.
+Texto secundario: RestoAI ayuda a visualizar datos importantes para decidir mejor.
+CTA: Consulta la demo.
+Escena sugerida: celular/tablet con reporte simple de ventas y pedidos, fondo de restaurante realista.
+Prompt compacto para generar el arte: Crear arte Estado 1080x1920 para WhatsApp de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Analíticas. Mensaje principal: “Revisa tus números.”. Texto secundario: “RestoAI ayuda a visualizar datos importantes para decidir mejor.”. CTA único: “Consulta la demo.”. Escena: celular/tablet con reporte simple de ventas y pedidos, fondo de restaurante realista. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

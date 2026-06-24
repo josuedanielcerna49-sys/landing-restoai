@@ -1,15 +1,11 @@
-Facebook
-
-Texto dentro del arte:
-Lili atiende.
-Tu equipo supervisa.
-Agenda una demo por WhatsApp.
-
-Copy para publicar:
-RestoAI incluye a Lili, una asistente virtual que atiende consultas y pedidos de tus clientes.
-
-Tu equipo puede supervisar las conversaciones e intervenir cuando sea necesario.
-
-IA con control humano para restaurantes.
-
-Agenda una demo por WhatsApp.
+<Día 04 - Pedidos a domicilio
+Red: Facebook
+Formato: Historia 1080x1920
+Archivo esperado: artes/restoai/dia_04/facebook/1080x1920.png
+Enfoque del día: RestoAI permite ordenar el flujo de domicilio: dirección, referencias, tipo de pedido y estado de entrega.
+Mensaje: Controla mejor tus pedidos a domicilio.
+Texto secundario: Dirección, referencias y estado de entrega en un mismo flujo.
+CTA: Escríbenos por WhatsApp.
+Escena sugerida: repartidor recibiendo pedido en restaurante, celular con detalle de dirección y pedido.
+Prompt compacto para generar el arte: Crear arte Historia 1080x1920 para Facebook de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Pedidos a domicilio. Mensaje principal: “Controla mejor tus pedidos a domicilio.”. Texto secundario: “Dirección, referencias y estado de entrega en un mismo flujo.”. CTA único: “Escríbenos por WhatsApp.”. Escena: repartidor recibiendo pedido en restaurante, celular con detalle de dirección y pedido. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.
+>

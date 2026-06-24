@@ -1,13 +1,10 @@
-Instagram
-
-Texto dentro del arte:
-Automatizá sin perder el control.
-Lili atiende y tu equipo supervisa.
-Agenda una demo por WhatsApp.
-
-Copy para publicar:
-RestoAI no reemplaza a tu equipo: lo apoya.
-
-Lili atiende consultas y pedidos, mientras tu restaurante mantiene el control de la conversación.
-
-Agenda una demo por WhatsApp.
+Día 04 - Pedidos a domicilio
+Red: Instagram
+Formato: Story-Reel 1080x1920
+Archivo esperado: artes/restoai/dia_04/instagram/1080x1920.png
+Enfoque del día: RestoAI permite ordenar el flujo de domicilio: dirección, referencias, tipo de pedido y estado de entrega.
+Mensaje: Domicilios más claros.
+Texto secundario: Pedidos, dirección y seguimiento sin tanto desorden.
+CTA: Conoce RestoAI.
+Escena sugerida: bolsa de entrega lista en mostrador, mapa o ubicación sutil como tarjeta flotante.
+Prompt compacto para generar el arte: Crear arte Story-Reel 1080x1920 para Instagram de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Pedidos a domicilio. Mensaje principal: “Domicilios más claros.”. Texto secundario: “Pedidos, dirección y seguimiento sin tanto desorden.”. CTA único: “Conoce RestoAI.”. Escena: bolsa de entrega lista en mostrador, mapa o ubicación sutil como tarjeta flotante. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

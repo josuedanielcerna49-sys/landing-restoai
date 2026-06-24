@@ -1,0 +1,10 @@
+Día 10 - Clientes frecuentes
+Red: WhatsApp
+Formato: Estado 1080x1920
+Archivo esperado: artes/restoai/dia_10/whatsapp/1080x1920.png
+Enfoque del día: RestoAI permite ver clientes, pedidos, contacto y nivel de lealtad para mejorar seguimiento.
+Mensaje: Dale seguimiento a tus clientes.
+Texto secundario: RestoAI ayuda a mantener una base de clientes más ordenada.
+CTA: Pedí información.
+Escena sugerida: celular con historial de pedidos y nombre de cliente genérico, fondo de restaurante.
+Prompt compacto para generar el arte: Crear arte Estado 1080x1920 para WhatsApp de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Clientes frecuentes. Mensaje principal: “Dale seguimiento a tus clientes.”. Texto secundario: “RestoAI ayuda a mantener una base de clientes más ordenada.”. CTA único: “Pedí información.”. Escena: celular con historial de pedidos y nombre de cliente genérico, fondo de restaurante. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

@@ -1,15 +1,12 @@
-Facebook
-
-Texto dentro del arte:
-Atendé más rápido.
-Tus clientes reciben respuesta cuando más la necesitan.
-Agenda una demo por WhatsApp.
-
-Copy para publicar:
-La rapidez también vende.
-
-Con RestoAI, tu restaurante puede responder consultas, pedidos y dudas frecuentes sin hacer esperar al cliente.
-
-Mejor atención, menos mensajes pendientes.
-
-Agenda una demo por WhatsApp.
+Mensaje:
+Tu restaurante puede atender incluso
+cuando estas ocupado.
+Texto secundario:
+Lili responde consultas, muestra el menu y
+ayuda a tomar pedidos.
+CTA:
+Escribinos por WhatsApp
+Escena sugerida:
+dueno o encargado en cocina con celular,
+ambiente de restaurante ocupado,
+notificaciones de pedidos entrantes.

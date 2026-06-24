@@ -1,0 +1,10 @@
+Día 10 - Clientes frecuentes
+Red: Facebook
+Formato: Historia 1080x1920
+Archivo esperado: artes/restoai/dia_10/facebook/1080x1920.png
+Enfoque del día: RestoAI permite ver clientes, pedidos, contacto y nivel de lealtad para mejorar seguimiento.
+Mensaje: Conoce mejor a tus clientes.
+Texto secundario: Pedidos, datos y lealtad para tomar mejores decisiones.
+CTA: Pedí una demo.
+Escena sugerida: dueño saludando a cliente frecuente, tablet con perfil de cliente de forma abstracta.
+Prompt compacto para generar el arte: Crear arte Historia 1080x1920 para Facebook de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Clientes frecuentes. Mensaje principal: “Conoce mejor a tus clientes.”. Texto secundario: “Pedidos, datos y lealtad para tomar mejores decisiones.”. CTA único: “Pedí una demo.”. Escena: dueño saludando a cliente frecuente, tablet con perfil de cliente de forma abstracta. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

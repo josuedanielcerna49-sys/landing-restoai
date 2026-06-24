@@ -1,0 +1,10 @@
+Día 06 - Punto de venta
+Red: Facebook
+Formato: Historia 1080x1920
+Archivo esperado: artes/restoai/dia_06/facebook/1080x1920.png
+Enfoque del día: RestoAI sirve para registrar ventas, pedidos de mostrador o domicilio, método de pago y comprobante.
+Mensaje: Registra ventas de forma más ordenada.
+Texto secundario: Punto de venta para mostrador y domicilio.
+CTA: Pedí una demo por WhatsApp.
+Escena sugerida: cajero de restaurante cobrando en mostrador, pantalla o tablet con carrito de productos de forma sutil.
+Prompt compacto para generar el arte: Crear arte Historia 1080x1920 para Facebook de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Punto de venta. Mensaje principal: “Registra ventas de forma más ordenada.”. Texto secundario: “Punto de venta para mostrador y domicilio.”. CTA único: “Pedí una demo por WhatsApp.”. Escena: cajero de restaurante cobrando en mostrador, pantalla o tablet con carrito de productos de forma sutil. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

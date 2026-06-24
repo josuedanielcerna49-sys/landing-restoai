@@ -1,0 +1,10 @@
+Día 11 - Monitor de chat
+Red: WhatsApp
+Formato: Estado 1080x1920
+Archivo esperado: artes/restoai/dia_11/whatsapp/1080x1920.png
+Enfoque del día: RestoAI permite supervisar conversaciones de Lili y tomar control humano si hace falta.
+Mensaje: No pierdas el control del chat.
+Texto secundario: RestoAI permite supervisar y responder manualmente si hace falta.
+CTA: Consulta la demo.
+Escena sugerida: celular con chat y tarjeta de control humano activo, fondo realista de restaurante.
+Prompt compacto para generar el arte: Crear arte Estado 1080x1920 para WhatsApp de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Monitor de chat. Mensaje principal: “No pierdas el control del chat.”. Texto secundario: “RestoAI permite supervisar y responder manualmente si hace falta.”. CTA único: “Consulta la demo.”. Escena: celular con chat y tarjeta de control humano activo, fondo realista de restaurante. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

@@ -1,0 +1,10 @@
+Día 09 - Facturación
+Red: WhatsApp
+Formato: Estado 1080x1920
+Archivo esperado: artes/restoai/dia_09/whatsapp/1080x1920.png
+Enfoque del día: RestoAI incluye configuración de datos fiscales, cajas, CAI y comprobantes según corresponda.
+Mensaje: Ordena tu facturación.
+Texto secundario: RestoAI ayuda a manejar cajas, comprobantes y datos fiscales.
+CTA: Consulta la demo.
+Escena sugerida: encargado revisando factura en pantalla con fondo de caja de restaurante.
+Prompt compacto para generar el arte: Crear arte Estado 1080x1920 para WhatsApp de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Facturación. Mensaje principal: “Ordena tu facturación.”. Texto secundario: “RestoAI ayuda a manejar cajas, comprobantes y datos fiscales.”. CTA único: “Consulta la demo.”. Escena: encargado revisando factura en pantalla con fondo de caja de restaurante. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

@@ -1,0 +1,10 @@
+Día 11 - Monitor de chat
+Red: Instagram
+Formato: Story-Reel 1080x1920
+Archivo esperado: artes/restoai/dia_11/instagram/1080x1920.png
+Enfoque del día: RestoAI permite supervisar conversaciones de Lili y tomar control humano si hace falta.
+Mensaje: IA + atención humana.
+Texto secundario: Automatiza sin perder el control del cliente.
+CTA: Conoce RestoAI.
+Escena sugerida: pantalla con conversación y botón de tomar control como tarjeta sutil, empleado sonriendo.
+Prompt compacto para generar el arte: Crear arte Story-Reel 1080x1920 para Instagram de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Monitor de chat. Mensaje principal: “IA + atención humana.”. Texto secundario: “Automatiza sin perder el control del cliente.”. CTA único: “Conoce RestoAI.”. Escena: pantalla con conversación y botón de tomar control como tarjeta sutil, empleado sonriendo. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

@@ -1,0 +1,10 @@
+Día 08 - Sucursales
+Red: WhatsApp
+Formato: Estado 1080x1920
+Archivo esperado: artes/restoai/dia_08/whatsapp/1080x1920.png
+Enfoque del día: RestoAI ayuda a controlar datos, servicios, zonas de entrega, costos y disponibilidad por sucursal.
+Mensaje: Organiza tus sucursales.
+Texto secundario: RestoAI ayuda a manejar datos y servicios por cada punto de venta.
+CTA: Pedí información.
+Escena sugerida: encargado alternando sucursales en una tablet, con tarjetas de sucursal activa.
+Prompt compacto para generar el arte: Crear arte Estado 1080x1920 para WhatsApp de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Sucursales. Mensaje principal: “Organiza tus sucursales.”. Texto secundario: “RestoAI ayuda a manejar datos y servicios por cada punto de venta.”. CTA único: “Pedí información.”. Escena: encargado alternando sucursales en una tablet, con tarjetas de sucursal activa. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

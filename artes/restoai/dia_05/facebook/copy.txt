@@ -1,13 +1,10 @@
-Facebook
-
-Texto dentro del arte:
-Más que un chat.
-RestoAI conecta pedidos, clientes y atención.
-Agenda una demo por WhatsApp.
-
-Copy para publicar:
-RestoAI no es solo un chatbot.
-
-Es una solución para ayudar a restaurantes a atender pedidos, responder consultas y dar seguimiento a sus clientes desde un sistema más inteligente.
-
-Agenda una demo por WhatsApp.
+Día 05 - Reclamos y clientes molestos
+Red: Facebook
+Formato: Historia 1080x1920
+Archivo esperado: artes/restoai/dia_05/facebook/1080x1920.png
+Enfoque del día: RestoAI ayuda a identificar reclamos y alertas de sentimiento para intervenir a tiempo.
+Mensaje: Detecta reclamos antes de perder clientes.
+Texto secundario: Seguimiento a reclamos y alertas para atender mejor.
+CTA: Agenda una demo por WhatsApp.
+Escena sugerida: encargado revisando alerta en tablet, cliente en restaurante al fondo, tono serio y profesional.
+Prompt compacto para generar el arte: Crear arte Historia 1080x1920 para Facebook de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Reclamos y clientes molestos. Mensaje principal: “Detecta reclamos antes de perder clientes.”. Texto secundario: “Seguimiento a reclamos y alertas para atender mejor.”. CTA único: “Agenda una demo por WhatsApp.”. Escena: encargado revisando alerta en tablet, cliente en restaurante al fondo, tono serio y profesional. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

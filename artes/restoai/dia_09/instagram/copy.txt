@@ -1,0 +1,10 @@
+Día 09 - Facturación
+Red: Instagram
+Formato: Story-Reel 1080x1920
+Archivo esperado: artes/restoai/dia_09/instagram/1080x1920.png
+Enfoque del día: RestoAI incluye configuración de datos fiscales, cajas, CAI y comprobantes según corresponda.
+Mensaje: Menos enredo al facturar.
+Texto secundario: Datos fiscales y comprobantes en un flujo más claro.
+CTA: Conoce RestoAI.
+Escena sugerida: ticket y terminal de pago sobre mostrador, acentos tecnológicos sutiles.
+Prompt compacto para generar el arte: Crear arte Story-Reel 1080x1920 para Instagram de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Facturación. Mensaje principal: “Menos enredo al facturar.”. Texto secundario: “Datos fiscales y comprobantes en un flujo más claro.”. CTA único: “Conoce RestoAI.”. Escena: ticket y terminal de pago sobre mostrador, acentos tecnológicos sutiles. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

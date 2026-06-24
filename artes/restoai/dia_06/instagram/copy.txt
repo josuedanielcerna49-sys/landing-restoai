@@ -1,0 +1,10 @@
+Día 06 - Punto de venta
+Red: Instagram
+Formato: Story-Reel 1080x1920
+Archivo esperado: artes/restoai/dia_06/instagram/1080x1920.png
+Enfoque del día: RestoAI sirve para registrar ventas, pedidos de mostrador o domicilio, método de pago y comprobante.
+Mensaje: Ventas más claras.
+Texto secundario: Un sistema para cobrar, registrar y controlar pedidos.
+CTA: Conoce RestoAI.
+Escena sugerida: mostrador moderno de restaurante, empleado con tablet y cliente pagando.
+Prompt compacto para generar el arte: Crear arte Story-Reel 1080x1920 para Instagram de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Punto de venta. Mensaje principal: “Ventas más claras.”. Texto secundario: “Un sistema para cobrar, registrar y controlar pedidos.”. CTA único: “Conoce RestoAI.”. Escena: mostrador moderno de restaurante, empleado con tablet y cliente pagando. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

@@ -1,0 +1,10 @@
+Día 15 - Demo final
+Red: Facebook
+Formato: Historia 1080x1920
+Archivo esperado: artes/restoai/dia_15/facebook/1080x1920.png
+Enfoque del día: Cierre de campaña: invitar a ver una demo de RestoAI para restaurantes que quieren atender y vender mejor.
+Mensaje: RestoAI: tecnología para restaurantes que quieren vender mejor.
+Texto secundario: Atención, pedidos, reservas y seguimiento desde una sola solución.
+CTA: Agenda una demo por WhatsApp.
+Escena sugerida: dueño de restaurante satisfecho usando tablet, equipo trabajando y ambiente moderno.
+Prompt compacto para generar el arte: Crear arte Historia 1080x1920 para Facebook de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Demo final. Mensaje principal: “RestoAI: tecnología para restaurantes que quieren vender mejor.”. Texto secundario: “Atención, pedidos, reservas y seguimiento desde una sola solución.”. CTA único: “Agenda una demo por WhatsApp.”. Escena: dueño de restaurante satisfecho usando tablet, equipo trabajando y ambiente moderno. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

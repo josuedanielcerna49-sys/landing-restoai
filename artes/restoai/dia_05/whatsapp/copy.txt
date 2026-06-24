@@ -1,11 +1,10 @@
-WhatsApp
-
-Texto dentro del arte:
-Ordená tus pedidos con IA.
-RestoAI ayuda a responder y atender mejor.
-Pedí la demo por WhatsApp.
-
-Copy para publicar:
-RestoAI ayuda a tu restaurante a responder pedidos, consultas y clientes de forma más ordenada.
-
-Pedí la demo por WhatsApp.
+Día 05 - Reclamos y clientes molestos
+Red: WhatsApp
+Formato: Estado 1080x1920
+Archivo esperado: artes/restoai/dia_05/whatsapp/1080x1920.png
+Enfoque del día: RestoAI ayuda a identificar reclamos y alertas de sentimiento para intervenir a tiempo.
+Mensaje: No dejes reclamos sin atender.
+Texto secundario: RestoAI ayuda a identificar clientes molestos y dar seguimiento.
+CTA: Consulta la demo.
+Escena sugerida: chat de cliente molesto en celular con alerta sutil y respuesta humana/automática, fondo restaurante.
+Prompt compacto para generar el arte: Crear arte Estado 1080x1920 para WhatsApp de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Reclamos y clientes molestos. Mensaje principal: “No dejes reclamos sin atender.”. Texto secundario: “RestoAI ayuda a identificar clientes molestos y dar seguimiento.”. CTA único: “Consulta la demo.”. Escena: chat de cliente molesto en celular con alerta sutil y respuesta humana/automática, fondo restaurante. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

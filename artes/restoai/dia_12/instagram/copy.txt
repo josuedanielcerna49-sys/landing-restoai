@@ -1,0 +1,10 @@
+Día 12 - Notificaciones
+Red: Instagram
+Formato: Story-Reel 1080x1920
+Archivo esperado: artes/restoai/dia_12/instagram/1080x1920.png
+Enfoque del día: RestoAI centraliza avisos importantes: pedidos nuevos, reservas, reclamos y otros eventos.
+Mensaje: Todo aviso en un solo lugar.
+Texto secundario: Pedidos, reservas y reclamos mejor controlados.
+CTA: Probá RestoAI.
+Escena sugerida: interfaz de notificaciones flotantes sobre foto de equipo de restaurante.
+Prompt compacto para generar el arte: Crear arte Story-Reel 1080x1920 para Instagram de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Notificaciones. Mensaje principal: “Todo aviso en un solo lugar.”. Texto secundario: “Pedidos, reservas y reclamos mejor controlados.”. CTA único: “Probá RestoAI.”. Escena: interfaz de notificaciones flotantes sobre foto de equipo de restaurante. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

@@ -1,0 +1,10 @@
+Día 15 - Demo final
+Red: Instagram
+Formato: Story-Reel 1080x1920
+Archivo esperado: artes/restoai/dia_15/instagram/1080x1920.png
+Enfoque del día: Cierre de campaña: invitar a ver una demo de RestoAI para restaurantes que quieren atender y vender mejor.
+Mensaje: Tu restaurante, más inteligente.
+Texto secundario: RestoAI ayuda a atender, vender y organizar mejor.
+CTA: Conoce la demo.
+Escena sugerida: composición premium con restaurante realista, tablet, pedidos y elementos tecnológicos sutiles.
+Prompt compacto para generar el arte: Crear arte Story-Reel 1080x1920 para Instagram de RestoAI. Seguir la Guía de Marca Simplexity: fondo navy #030065, acentos #0038FF y #28EDFF, texto blanco, tipografía Sofia/Montserrat, estilo profesional, limpio y tecnológico. No generar ni escribir el logo; dejar espacio superior libre para colocar el logo oficial manualmente. Usar foto real del restaurante/persona si se adjunta; si no, escena realista como placeholder. Tema: Demo final. Mensaje principal: “Tu restaurante, más inteligente.”. Texto secundario: “RestoAI ayuda a atender, vender y organizar mejor.”. CTA único: “Conoce la demo.”. Escena: composición premium con restaurante realista, tablet, pedidos y elementos tecnológicos sutiles. Un solo mensaje, un solo CTA, poco texto, sin saturar, sin colores fuera de marca.

@@ -1,11 +1,11 @@
-WhatsApp
-
-Texto dentro del arte:
-Tu restaurante responde 24/7.
-RestoAI atiende aunque estés ocupado.
-Pedí la demo por WhatsApp.
-
-Copy para publicar:
-Con RestoAI, tu restaurante puede responder pedidos y consultas incluso cuando el equipo está lleno de trabajo.
-
-Pedí la demo por WhatsApp
+Mensaje:
+Evita perder reservas.
+Texto secundario:
+RestoAI ayuda a registrar y organizar
+reservas de forma mas clara.
+CTA:
+Consulta la demo
+Escena sugerida:
+chat de reserva en celular con datos de
+hora/personas, fondo de restaurante
+realista.

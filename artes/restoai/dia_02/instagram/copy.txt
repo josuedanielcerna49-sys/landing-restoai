@@ -1,13 +1,10 @@
-Instagram
-
-Texto dentro del arte:
-La respuesta rápida también vende.
-RestoAI atiende por vos 24/7.
-Agenda una demo por WhatsApp.
-
-Copy para publicar:
-Cuando el cliente pregunta, quiere una respuesta clara y rápida.
-
-RestoAI ayuda a tu restaurante a responder en menos tiempo y mantener la atención activa todo el día.
-
-Agenda una demo por WhatsApp.
+Mensaje:
+Atencion automatica para tu restaurante.
+Texto secundario:
+Lili ayuda con menu, pedidos y reservas.
+CTA:
+Conoce RestoAI
+Escena sugerida:
+empleado de restaurante atendiendo mesa
+mientras una interfaz sutil muestra
+respuestas automaticas activas.
