@@ -69,3 +69,43 @@ El avance del día quedó enfocado en preparar la base de marketing de RestoAI p
 3. Guardar los artes finales en sus carpetas correspondientes.
 
 4. Continuar actualizando evidencia y repositorio con el avance real.
+
+## Cierre de revisión final — RestoAI
+
+Se dejó actualizada la evidencia final del trabajo realizado para RestoAI durante la semana final de práctica.
+
+### Links de evidencia
+
+- Repositorio: [https://github.com/josuedanielcerna49-sys/landing-restoai]
+- Buyer Persona RestoAI: [https://github.com/josuedanielcerna49-sys/landing-restoai/blob/main/Documentacion/BUYER_PERSONA_RESTOAI.md]
+- Flujo del agente OpenClaw + Codex: [https://github.com/josuedanielcerna49-sys/landing-restoai/blob/main/Documentacion/AGENTE_OPENCLAW_RESTOAI.md]
+- Carpeta de artes/evidencias: [https://github.com/josuedanielcerna49-sys/landing-restoai/tree/main/artes/restoai]
+
+### Revisión de artes
+
+Se realizó una revisión rápida de los 45 artes de RestoAI correspondientes a 15 días de contenido en 3 canales: Facebook, Instagram y WhatsApp.
+
+Durante la revisión se verificó que los artes cumplieran con:
+
+- Un solo mensaje por arte.
+- Un solo CTA por pieza.
+- Uso de marca Simplexity.
+- Canal correcto según formato y mensaje.
+- Organización por día y red social.
+- Evidencia guardada en el repositorio.
+
+### Agente OpenClaw + Codex
+
+El flujo del agente quedó documentado en modo borrador/prueba. El agente tiene como objetivo tomar el arte y copy desde el repositorio, preparar la publicación por canal y dejarla pendiente de aprobación.
+
+No se publicó contenido ni se contactaron prospectos reales.
+
+### Bloqueo actual
+
+El agente no puede probarse de forma conectada porque faltan credenciales o accesos reales de WhatsApp, Facebook/Instagram o Meta Business Suite.
+
+Queda pendiente que Allan confirme qué cuentas se usarán, qué permisos estarán disponibles y si la demo será solo en borrador o con una prueba controlada.
+
+### Estado final
+
+Mi parte queda lista para revisión final, con artes revisados, Buyer Persona documentado, flujo del agente documentado, evidencia organizada y bloqueo claramente reportado.
