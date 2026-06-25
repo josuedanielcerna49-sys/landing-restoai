@@ -543,3 +543,21 @@ También se reforzó la regla de que el texto “RestoAI” debe aparecer solo c
 Durante el día también se creó un PDF interno con los 14 días restantes de la campaña, del día 02 al 15. Ese documento organizó los mensajes, copies, rutas de guardado y prompts por red social, para evitar confusiones al producir los artes restantes. Sirve como fuente interna del proyecto para saber qué mensaje corresponde a cada día y a cada canal.
 
 Finalmente, se continuó dejando todo alineado con la entrega final: artes por día y red social, mensajes separados, guía de prompts, validación de estilo, documentación del agente OpenClaw + Codex y preparación de contenido sin contactar prospectos reales.
+
+**Jueves 25 de junio**
+
+Este día continué trabajando en la semana final de práctica profesional, enfocándome principalmente en terminar la producción visual de los artes de RestoAI.
+
+Durante el día revisé los diseños que ya tenía generados y fui corrigiendo detalles visuales para que se vieran más profesionales, ordenados y coherentes con la marca Simplexity. Me enfoqué en que cada arte tuviera una mejor distribución, buena jerarquía visual, texto claro, suficiente espacio entre elementos y un solo mensaje principal.
+
+También trabajé en mejorar los prompts para que los diseños no salieran desordenados ni saturados. Ajusté las instrucciones para que los artes dejaran aire visual limpio en la parte superior para colocar el logo oficial manualmente, sin que la IA generara rectángulos, bordes, cajas o placeholders. Además, reforcé que el texto “RestoAI” debía aparecer solo como palabra, sin íconos, robots, adornos ni símbolos extraños al lado.
+
+Durante la producción de imágenes me compliqué con algunos artes porque ciertas composiciones salían con elementos mal ubicados o con escenas que no transmitían bien el mensaje. Por eso fui corrigiendo la distribución y pidiendo diseños más limpios, con mejor relación entre la foto del restaurante, el texto principal, el texto secundario y el CTA.
+
+También cuidé que cada red social tuviera un enfoque diferente. Para Facebook trabajé mensajes más comerciales y claros; para Instagram busqué diseños más visuales y atractivos; y para WhatsApp mantuve mensajes más directos, personales y fáciles de leer desde celular.
+
+Se completaron los 45 artes finales de RestoAI, organizados por los 15 días de campaña y los 3 canales: Facebook, Instagram y WhatsApp. Cada arte quedó trabajado con un mensaje diferente, un solo CTA y estilo alineado a Simplexity.
+
+Además, revisé que los artes quedaran guardados dentro de sus carpetas correspondientes por día y canal. Después subí los archivos al repositorio usando Git, realicé el commit y el push correspondiente. Finalmente confirmé con `git status` que el repositorio quedó limpio, sin cambios pendientes.
+
+También mantuve la regla indicada para esta semana: no contactar prospectos reales. Todo el trabajo quedó como preparación de campaña, evidencia y material listo para revisión.
