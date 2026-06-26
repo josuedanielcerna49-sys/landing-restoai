@@ -109,3 +109,19 @@ Queda pendiente que Allan confirme qué cuentas se usarán, qué permisos estar�
 ### Estado final
 
 Mi parte queda lista para revisión final, con artes revisados, Buyer Persona documentado, flujo del agente documentado, evidencia organizada y bloqueo claramente reportado.
+
+**Viernes 26 de junio**
+
+Este día trabajé en el cierre final de la semana de práctica profesional para RestoAI. Revisé los entregables pendientes y confirmé que la entrega principal de contenido ya estuviera completa y organizada.
+
+Durante el día verifiqué los 45 artes finales de RestoAI, correspondientes a 15 días de campaña y 3 canales por día: Facebook, Instagram y WhatsApp. También revisé que cada arte tuviera su respectivo copy, un solo mensaje principal y un solo CTA, siguiendo la línea visual de Simplexity.
+
+Además, confirmé que los artes estuvieran organizados dentro del repositorio por día y canal, para que la evidencia quedara trazable. También revisé el calendario de contenido, el Buyer Persona, los mensajes por red social y la documentación relacionada con la campaña.
+
+Como parte extra de la entrega, agregué 3 videos hechos con IA, que eran opcionales en la semana final. Los dejé como apoyo visual adicional para reforzar la presentación de RestoAI y complementar los artes estáticos.
+
+También revisé el estado del agente OpenClaw + Codex. Dejé claro que el flujo del agente queda documentado en modo prueba/borrador, sin publicar ni contactar prospectos reales. El agente tiene definido el flujo para tomar arte y copy del repositorio, preparar publicaciones para WhatsApp, Facebook e Instagram y esperar aprobación antes de publicar.
+
+El bloqueo principal del agente sigue siendo la falta de credenciales o accesos reales a WhatsApp, Facebook/Instagram o Meta Business Suite. Por esa razón, el afinamiento final del agente con cuentas reales queda pendiente para la próxima semana, cuando Allan confirme los accesos y la configuración correspondiente.
+
+Durante el cierre también preparé el reporte para Amena, explicando lo avanzado, lo que queda bloqueado y confirmando que no se contactaron prospectos reales durante la semana. Finalmente, dejé lista la entrega para hacer el commit y push final al repositorio.
